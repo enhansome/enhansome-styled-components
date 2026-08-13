@@ -1,0 +1,1941 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "styled-components"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Built with styled-components"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ReaKit",
+          "description": "Toolkit for building interactive UIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T05:08:31Z",
+            "owner": "ariakit",
+            "repo": "ariakit",
+            "stars": 8594
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rebass",
+          "description": "Functional React UI component library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-27T03:42:53Z",
+            "owner": "rebassjs",
+            "repo": "rebass",
+            "stars": 7904
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React95",
+          "description": "Windows 95 style UI components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-01-14T20:52:31Z",
+            "owner": "react95-io",
+            "repo": "React95",
+            "stars": 7255
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reactour",
+          "description": "Tourist Guide into your Components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-19T17:02:35Z",
+            "owner": "elrumordelaluz",
+            "repo": "reactour",
+            "stars": 4087
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-data-table-component",
+          "description": "Data Table with built in sorting, pagination, selection, expandable rows and customizable styling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-22T00:58:54Z",
+            "owner": "jbetancur",
+            "repo": "react-data-table-component",
+            "stars": 2228
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "styled-icons",
+          "description": "Icons from popular icon packs (Font Awesome, Material, Octicons, etc).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-01T10:14:40Z",
+            "owner": "styled-icons",
+            "repo": "styled-icons",
+            "stars": 2098
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-simple-chatbot",
+          "description": "Simple chatbot / conversational-ui component.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-11-19T13:32:21Z",
+            "owner": "LucasBassetti",
+            "repo": "react-simple-chatbot",
+            "stars": 1754
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Smooth UI",
+          "description": "UI Library / Design System.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-06-19T19:51:40Z",
+            "owner": "smooth-code",
+            "repo": "smooth-ui",
+            "stars": 1594
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-microlink",
+          "description": "Convert your links into beautiful previews.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2026-08-03T20:07:10Z",
+            "owner": "microlinkhq",
+            "repo": "sdk",
+            "stars": 623
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-css-loaders",
+          "description": "A collection of pure CSS loading components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-01-21T04:28:32Z",
+            "owner": "LucasBassetti",
+            "repo": "react-css-loaders",
+            "stars": 397
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grommet-icons",
+          "description": "Iconography for grommet apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T14:46:44Z",
+            "owner": "grommet",
+            "repo": "grommet-icons",
+            "stars": 342
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-epic-spinners",
+          "description": "Reusable components for spinners.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-22T23:13:04Z",
+            "owner": "bondz",
+            "repo": "react-epic-spinners",
+            "stars": 339
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uiGradients",
+          "description": "Drop-in component for gradients.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-11-05T08:18:59Z",
+            "owner": "ariamckinley",
+            "repo": "uigradients",
+            "stars": 228
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rendition",
+          "description": "A powerful component library for quickly building modern web apps.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2024-10-10T08:57:57Z",
+            "owner": "balena-io-modules",
+            "repo": "rendition",
+            "stars": 214
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "styled-react-modal",
+          "description": "Modal component with familiar API and syntactic sugar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-12-08T18:09:33Z",
+            "owner": "AlexanderRichey",
+            "repo": "styled-react-modal",
+            "stars": 210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-functional-select",
+          "description": "Micro-sized & micro-optimized select component.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-12-24T00:40:14Z",
+            "owner": "based-ghost",
+            "repo": "react-functional-select",
+            "stars": 196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@hackclub/design-system",
+          "description": "Flexible, reusable set of web UI components, built by Hack Club",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-09-27T20:36:11Z",
+            "owner": "hackclub",
+            "repo": "design-system",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-styled-select",
+          "description": "Lightweight Select control component.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-03-25T08:17:51Z",
+            "owner": "agutoli",
+            "repo": "react-styled-select",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "styled-off-canvas",
+          "description": "Simple one-off canvas menu.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-21T10:58:59Z",
+            "owner": "marco-streng",
+            "repo": "styled-off-canvas",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-aria-tooltip",
+          "description": "Accessible ReactJS tooltip component.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-10T20:05:15Z",
+            "owner": "egoens",
+            "repo": "react-aria-tooltip",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grape-ui",
+          "description": "Component library using styled-system and other open source components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-10T22:02:33Z",
+            "owner": "napagroup",
+            "repo": "grape-ui-react",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-styled-floating-label",
+          "description": "Floating label component which works with any HTML input.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-03T20:48:39Z",
+            "owner": "ihor",
+            "repo": "react-styled-floating-label",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "oah-ui",
+          "description": "Component library built with four themes, grid system, ltr and rtl directions, theme system to add and edit themes",
+          "children": []
+        }
+      ],
+      "title": "Components"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Atomic Layout",
+          "description": "Layout composition as a physical React component.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-07T09:37:03Z",
+            "owner": "kettanaito",
+            "repo": "atomic-layout",
+            "stars": 1138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hedron",
+          "description": "No-frills flex-box grid system.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-12-15T03:50:06Z",
+            "owner": "ariamckinley",
+            "repo": "hedron",
+            "stars": 862
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-styled-flexboxgrid",
+          "description": "Grid system based on flexbox.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-04-02T14:11:05Z",
+            "owner": "LoicMahieu",
+            "repo": "react-styled-flexboxgrid",
+            "stars": 553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bedrock-layout-primitives",
+          "description": "Foundational Layout Primitives for your React App",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T08:14:02Z",
+            "owner": "Bedrock-Layouts",
+            "repo": "Bedrock",
+            "stars": 448
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-awesome-styled-grid",
+          "description": "Responsive grid system layout.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-09-12T01:15:59Z",
+            "owner": "santosfrancisco",
+            "repo": "react-awesome-styled-grid",
+            "stars": 220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "styled-bootstrap-grid",
+          "description": "Twitter Bootstrap v4 (grid system only).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-04T21:50:05Z",
+            "owner": "dragma",
+            "repo": "styled-bootstrap-grid",
+            "stars": 165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-flexa",
+          "description": "Implementing the flexbox CSS API responsively.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-07T01:01:15Z",
+            "owner": "aaronvanston",
+            "repo": "react-flexa",
+            "stars": 132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-raster",
+          "description": "Advanced Grid-System, highly customizable and ready for SSR.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2022-04-28T19:39:18Z",
+            "owner": "AndreasFaust",
+            "repo": "react-raster",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-flex-ready",
+          "description": "FlexBox grid system with property.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-04-03T15:00:20Z",
+            "owner": "smakosh",
+            "repo": "react-flex-ready",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "neat-components",
+          "description": "Implementation of ThoughtBot's Neat grid system.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-10-16T18:48:53Z",
+            "owner": "magicink",
+            "repo": "neat-components",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cinch Layout",
+          "description": "React Native grid system inspired by Hedron.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-06T01:59:28Z",
+            "owner": "jim-at-jibba",
+            "repo": "react-native-cinch-layout",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "Grid Systems"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "styled-system",
+          "description": "Design system utilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-01-12T19:55:49Z",
+            "owner": "styled-system",
+            "repo": "styled-system",
+            "stars": 7864
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polished",
+          "description": "Lightweight set of Sass/Compass-style mixins/helpers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-26T23:06:08Z",
+            "owner": "styled-components",
+            "repo": "polished",
+            "stars": 7661
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "styled-theming",
+          "description": "Create themes for your app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-10T12:19:58Z",
+            "owner": "styled-components",
+            "repo": "styled-theming",
+            "stars": 1170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "styled-tools",
+          "description": "Useful interpolated functions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-06T22:19:21Z",
+            "owner": "diegohaz",
+            "repo": "styled-tools",
+            "stars": 799
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "styled-map",
+          "description": "Super simple lib to map props to styles.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-02-03T13:48:34Z",
+            "owner": "scf4",
+            "repo": "styled-map",
+            "stars": 588
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "styled-breakpoints",
+          "description": "Simple and powerful custom breakpoints",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-24T10:10:31Z",
+            "owner": "mg901",
+            "repo": "styled-breakpoints",
+            "stars": 557
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "design-system-utils",
+          "description": "Utilities to give better access to your design system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-03-06T05:37:05Z",
+            "owner": "mrmartineau",
+            "repo": "design-system-utils",
+            "stars": 542
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "styled-normalize",
+          "description": "Add normalize.css",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-02-08T13:08:14Z",
+            "owner": "sergeysova",
+            "repo": "styled-normalize",
+            "stars": 442
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "styled-reset",
+          "description": "Eric Meyer's Reset CSS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T14:56:01Z",
+            "owner": "zautumnz",
+            "repo": "styled-reset",
+            "stars": 388
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webstorm-styled-components",
+          "description": "Highlighting support in IntelliJ editors",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-12T14:50:10Z",
+            "owner": "styled-components",
+            "repo": "webstorm-styled-components",
+            "stars": 376
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shevyjs",
+          "description": "Create and manage global typography and vertical rhythm.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-08T01:28:02Z",
+            "owner": "kyleshevlin",
+            "repo": "shevyjs",
+            "stars": 319
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "styled-components-modifiers",
+          "description": "Enables BEM flavored modifiers (and responsive modifiers).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-05-23T04:53:26Z",
+            "owner": "Decisiv",
+            "repo": "styled-components-modifiers",
+            "stars": 297
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "styled-email-components",
+          "description": "Extension for building email-first components via inline styles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-08T14:02:23Z",
+            "owner": "sbekrin",
+            "repo": "styled-email-components",
+            "stars": 256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "styled-transition-group",
+          "description": "Create animations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-08T18:53:20Z",
+            "owner": "gabiseabra",
+            "repo": "styled-transition-group",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "css-in-js-media",
+          "description": "Deal with responsive design.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-02-28T18:57:36Z",
+            "owner": "Brew-Brew",
+            "repo": "css-in-js-media",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "styco",
+          "description": "VS Code extension to easily refactor JSX inline styles to styled components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-06T13:32:37Z",
+            "owner": "Agreon",
+            "repo": "styco",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "styled-px2vw",
+          "description": "Extension of styled-components with features for convert px to vw units.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-08-13T03:56:58Z",
+            "owner": "hnzycfcfed",
+            "repo": "styled-px2vw",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "styled-media-helper",
+          "description": "Write media queries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-04T02:45:25Z",
+            "owner": "dvpnt",
+            "repo": "styled-media-helper",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "styless",
+          "description": "Style your components declaratively with familiar Less syntax.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-03T18:31:05Z",
+            "owner": "jean343",
+            "repo": "styless",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spacing-helper",
+          "description": "Standalone helper for creating consistent spacing between the elements.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-25T23:21:52Z",
+            "owner": "binjospookie",
+            "repo": "spacing-helper",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MetaComponent",
+          "description": "Migrate legacy HTML and CSS to styled components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-08-25T08:11:57Z",
+            "owner": "springload",
+            "repo": "metacomponent",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "styled-components-extractor",
+          "description": "Extracts unbound tags in VS Code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-24T14:23:05Z",
+            "owner": "FallenMax",
+            "repo": "styled-components-extractor",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "styled-reboot",
+          "description": "Bootstrap v4 reboot.css",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T23:50:12Z",
+            "owner": "alexruzzarin",
+            "repo": "styled-reboot",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "theme-miner",
+          "description": "Makes it very easy and readable to create complex design systems in React with styled-components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-06T02:00:15Z",
+            "owner": "doubco",
+            "repo": "thememiner",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "styled-tachyons",
+          "description": "Mix tachyons style shorthands with normal css.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-04T02:50:16Z",
+            "owner": "linonetwo",
+            "repo": "styled-tachyons",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-components-cli",
+          "description": "Client to generate styled components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-01-30T21:51:09Z",
+            "owner": "yannvr",
+            "repo": "react-components-cli",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Helpers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "react-boilerplate",
+          "description": "Highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-23T21:35:09Z",
+            "owner": "react-boilerplate",
+            "repo": "react-boilerplate",
+            "stars": 29490
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ARc",
+          "description": "Atomic React App boilerplate.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-02-12T09:10:40Z",
+            "owner": "diegohaz",
+            "repo": "arc",
+            "stars": 2925
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "styled-react-boilerplate",
+          "description": "Modern & minimal boilerplate.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-30T03:48:46Z",
+            "owner": "xxczaki",
+            "repo": "styled-react-boilerplate",
+            "stars": 210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Superstylin'",
+          "description": "A Gatsby starter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-11T19:39:29Z",
+            "owner": "bntzio",
+            "repo": "gatsby-theme-superstylin",
+            "stars": 170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Generator create-redux-app",
+          "description": "Adds Redux and other useful libraries, on top of create-react-app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-06T01:44:36Z",
+            "owner": "jonidelv",
+            "repo": "generator-create-redux-app",
+            "stars": 139
+          }
+        }
+      ],
+      "title": "Boilerplates"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "en.kachkaev.ru",
+          "description": "Personal homepage built with next.js; also uses GraphQL, Docker, CI and microservice architecture (source on GitLab).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T06:52:03Z",
+            "owner": "vercel",
+            "repo": "next.js",
+            "stars": 141754
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strapi Admin Panel",
+          "description": "Strapi built-in admin panel to build content APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T15:46:17Z",
+            "owner": "strapi",
+            "repo": "strapi",
+            "stars": 72858
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reactiflux",
+          "description": "Reactiflux community home build with Gatsby (source).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T05:12:32Z",
+            "owner": "gatsbyjs",
+            "repo": "gatsby",
+            "stars": 55941
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sachagreif.com",
+          "description": "Personal homepage built with Gatsby (source).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T05:12:32Z",
+            "owner": "gatsbyjs",
+            "repo": "gatsby",
+            "stars": 55941
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prisma",
+          "description": "Open-Source GraphQL ORM for GraphQL Servers (source).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T07:04:07Z",
+            "owner": "prisma",
+            "repo": "prisma",
+            "stars": 47566
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Outline",
+          "description": "Wiki for your team (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:36:13Z",
+            "owner": "outline",
+            "repo": "outline",
+            "stars": 40099
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodeSandbox",
+          "description": "An online editor tailored for React development (source).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-15T11:28:12Z",
+            "owner": "codesandbox",
+            "repo": "codesandbox-client",
+            "stars": 13631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spectrum",
+          "description": "The community platform for the future (source).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-07-20T03:30:21Z",
+            "owner": "withspectrum",
+            "repo": "spectrum",
+            "stars": 10835
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Grabient.com",
+          "description": "A beautiful and simple UI for generating web gradients. (source).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-02T22:49:15Z",
+            "owner": "johnkorzhuk",
+            "repo": "grabient",
+            "stars": 2012
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orbit Components",
+          "description": "Component library of Orbit Design System, built by and for Kiwi.com",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-06T12:56:45Z",
+            "owner": "kiwicom",
+            "repo": "orbit",
+            "stars": 1439
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "njt.now.sh",
+          "description": "(npm jump to) is a tool and a service that provides package navigation shortcuts. It uses Next.js and involves server-side-rendering (source).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T23:59:51Z",
+            "owner": "kachkaev",
+            "repo": "njt",
+            "stars": 318
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hack Club",
+          "description": "Website for a global, non-profit community of high school coding clubs (source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T16:16:05Z",
+            "owner": "hackclub",
+            "repo": "site",
+            "stars": 276
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Booben",
+          "description": "Design, develop, connect data, get source code - all in one place.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-01-09T17:54:33Z",
+            "owner": "bcrumbs",
+            "repo": "booben",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nulogy",
+          "description": "Supply chain management software built with open-source Nulogy Components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T14:39:38Z",
+            "owner": "nulogy",
+            "repo": "design-system",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tab Ipsum",
+          "description": "Generate fake content easily (source).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-11-21T16:59:20Z",
+            "owner": "edkf",
+            "repo": "tabipsum",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GetShitDone",
+          "description": "Timer to track your work tasks (source).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-04-08T21:10:51Z",
+            "owner": "Nargonath",
+            "repo": "getshitdone",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rick-morty-app",
+          "description": "Rick and Morty Information Portal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-01-15T11:55:25Z",
+            "owner": "Bamii",
+            "repo": "rick-morty-app",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dirtyredz.com",
+          "description": "David McClain | Dirtyredz * About me, Latest projects and Contact (source).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-03T21:45:30Z",
+            "owner": "dirtyredz",
+            "repo": "dirtyredz.com",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "joeireland.com",
+          "description": "Portfolio of Joseph Ireland (source).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-09-11T12:12:27Z",
+            "owner": "IamJoseph",
+            "repo": "JoesReactWebsite",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "michaelhsu.tw",
+          "description": "A simple static homepage built with CRA pre-renderer (source).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-24T21:11:52Z",
+            "owner": "evenchange4",
+            "repo": "michaelhsu.tw",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spaceexperience.club",
+          "description": "Brings you each day a stunning picture of our universe, Astronomy Picture of the Day. (source).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-04-09T10:00:10Z",
+            "owner": "caspg",
+            "repo": "space-exp",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rosesdaycare.center",
+          "description": "Marketing website with theme colors that change on refresh (source).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-09T03:40:51Z",
+            "owner": "anthony2025",
+            "repo": "roses-daycare",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Real Apps"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Further Reading"
+    },
+    {
+      "description": "Contributions welcome and suggestions! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contribute"
+    },
+    {
+      "description": "Here's a list of previous library links (without any category or grouping) that have been inactive without new releases for at least 12 months. This may include packages that have had commits that simply bump dependencies, without actually upgrading peer dependencies, or other changes.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RAN!",
+          "description": "Production-ready boilerplate with support for GraphQL, SSR, Hot-reload, and caching.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-14T16:17:37Z",
+            "owner": "Sly777",
+            "repo": "ran",
+            "stars": 2209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rebass Grid",
+          "description": "Responsive React grid system built with styled-system.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-08-06T15:51:01Z",
+            "owner": "rebassjs",
+            "repo": "grid",
+            "stars": 2026
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReactQL",
+          "description": "Universal React + GraphQL starter kit written in Typescript w/ React 16, Apollo 2, SSR, hot-code reload, Brotli compression, strongly typed themes and support for SASS/LESS/PostCSS.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2024-10-31T13:06:55Z",
+            "owner": "leebenson",
+            "repo": "reactql",
+            "stars": 1811
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "styled-media-query",
+          "description": "Easily and beautifully use media queries with custom breakpoints,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-07T04:06:33Z",
+            "owner": "morajabi",
+            "repo": "styled-media-query",
+            "stars": 1308
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "styled-components-theme",
+          "description": "Refers to theme colors and modifying them inline.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-12-10T17:13:50Z",
+            "owner": "erikras",
+            "repo": "styled-components-theme",
+            "stars": 306
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reactackle",
+          "description": "Open-source component library built with React and Styled Components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-10T14:50:31Z",
+            "owner": "bcrumbs",
+            "repo": "reactackle",
+            "stars": 278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reshake",
+          "description": "CSShake as a React Functional Component.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-07-10T07:52:50Z",
+            "owner": "elrumordelaluz",
+            "repo": "reshake",
+            "stars": 277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "styled-props",
+          "description": "Allows you to set styled props in your styled-components without stress.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-08-13T19:53:54Z",
+            "owner": "RafalFilipek",
+            "repo": "styled-props",
+            "stars": 241
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "styled-components-breakpoint",
+          "description": "Utility function for using breakpoints.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-10-12T15:33:13Z",
+            "owner": "jameslnewell",
+            "repo": "styled-components-breakpoint",
+            "stars": 238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-progressive-bg-image",
+          "description": "Medium style progressive background image.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-24T16:00:17Z",
+            "owner": "evenchange4",
+            "repo": "react-progressive-bg-image",
+            "stars": 228
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "styled-components-grid",
+          "description": "Responsive grid components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-15T07:47:38Z",
+            "owner": "jameslnewell",
+            "repo": "styled-components-grid",
+            "stars": 219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "last-draft",
+          "description": "A Draft.js Editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-03-08T11:30:16Z",
+            "owner": "ld-x",
+            "repo": "last-draft",
+            "stars": 218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "styled-components-spacing",
+          "description": "Responsive margin and padding components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-09T16:55:00Z",
+            "owner": "jameslnewell",
+            "repo": "styled-components-spacing",
+            "stars": 211
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "styled-flex-component",
+          "description": "Flex Element for not writing any more custom flex styles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-06-21T20:17:51Z",
+            "owner": "SaraVieira",
+            "repo": "styled-flex-component",
+            "stars": 209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "styled-is",
+          "description": "Flag utility for styled-components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-06T01:41:05Z",
+            "owner": "yldio",
+            "repo": "styled-is",
+            "stars": 209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "styled-loaders",
+          "description": "Loaders Built with Preact and Styled Components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-10-02T11:19:26Z",
+            "owner": "SaraVieira",
+            "repo": "styled-loaders",
+            "stars": 208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "styled-theme",
+          "description": "Extensible theming system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-12-02T00:06:28Z",
+            "owner": "diegohaz",
+            "repo": "styled-theme",
+            "stars": 181
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-adminlte-dash",
+          "description": "AdminLTE dashboard components in React.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-11-05T03:30:06Z",
+            "owner": "zksailor534",
+            "repo": "react-adminlte-dash",
+            "stars": 167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "styled-bootstrap",
+          "description": "Bootstrap 4 Components implementation with customization in mind.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-04-01T07:16:06Z",
+            "owner": "xDae",
+            "repo": "styled-bootstrap",
+            "stars": 155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "styled-components-ts",
+          "description": "styled-components for TypeScript",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-11-29T19:49:05Z",
+            "owner": "jacob-ebey",
+            "repo": "styled-components-ts",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-redux-styled-hot-universal",
+          "description": "SSR, Universal Webpack, Redux, React-router, Babel",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-03-30T20:35:52Z",
+            "owner": "krasevych",
+            "repo": "react-redux-styled-hot-universal",
+            "stars": 146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "animated-styled-component",
+          "description": "React Animated Styled Components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-03T03:18:56Z",
+            "owner": "alexvcasillas",
+            "repo": "animated-styled-components",
+            "stars": 137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "styled-by",
+          "description": "Simple and powerful lib to handle styled props.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-06-19T19:23:07Z",
+            "owner": "brunobertolini",
+            "repo": "styled-by",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-enhanced-form",
+          "description": "form component.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-01-04T15:50:03Z",
+            "owner": "fulll",
+            "repo": "react-enhanced-form",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Razzle Material UI Styled Example",
+          "description": "Razzle Material UI example using Express with compression.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-16T11:10:26Z",
+            "owner": "kireerik",
+            "repo": "razzle-material-ui-styled-example",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "griz",
+          "description": "The simplest grid system you'd ever see. Using grids with a flexbox fallback.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-08-16T18:58:10Z",
+            "owner": "josephrexme",
+            "repo": "griz",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-teleportation",
+          "description": "Teleport your components to the foreground.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-01-04T15:51:07Z",
+            "owner": "fulll",
+            "repo": "react-teleportation",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-rasta",
+          "description": "Responsive 12 column grid system which comes with a clean and simple API plus tons of feature -- customizable breakpoints, full screen mode, and no gutter to name a few.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-12-08T17:18:21Z",
+            "owner": "ChilliCream",
+            "repo": "react-rasta",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "styled-shortcuts",
+          "description": "Use simple string notation to access props. No functions necessary.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-05-14T16:50:22Z",
+            "owner": "donavon",
+            "repo": "styled-shortcuts",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-super-styled",
+          "description": "Build responsive, semantic layouts fast with this design-agnostic toolkit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-12-02T01:01:36Z",
+            "owner": "moarwick",
+            "repo": "react-super-styled",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mcs-lite-ui",
+          "description": "An on-premises Internet of Things cloud platform, which can be quickly built and is fast to get started with.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T23:50:32Z",
+            "owner": "MCS-Lite",
+            "repo": "mcs-lite",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "subatomic",
+          "description": "Add inline style props to your styled components.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-12-14T21:42:51Z",
+            "owner": "gragland",
+            "repo": "subatomic",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "styled-container-query",
+          "description": "Use / with an easy syntax.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T11:18:28Z",
+            "owner": "FreddyFY",
+            "repo": "styled-container-query",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "normalized-styled-components",
+          "description": "normalize.css with a styled-components mindset.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-10T01:33:50Z",
+            "owner": "yldio",
+            "repo": "normalized-styled-components",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "styled-components-test-utils",
+          "description": "Utils for styled-components compatible with jest, expect, chai and jasmine",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-27T21:30:32Z",
+            "owner": "mbasso",
+            "repo": "styled-components-test-utils",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-styled-box",
+          "description": "Speed up prototyping layouts with ready flex powered Box.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-11-18T15:08:47Z",
+            "owner": "Monar",
+            "repo": "react-styled-box",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-styled-flexbox",
+          "description": "Effortlessly add flexbox styles to your components using minimal code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-09-07T17:34:49Z",
+            "owner": "snikas",
+            "repo": "react-styled-flexbox",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-awesome-notifications",
+          "description": "A beautiful fully customizable React + Redux notification system built with styled-components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2018-12-24T19:24:07Z",
+            "owner": "zakariaharti",
+            "repo": "react-awesome-notifications",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "super-query",
+          "description": "Super media-query intuitive and easy of use.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-09T17:13:32Z",
+            "owner": "themgoncalves",
+            "repo": "super-query",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "with-styled-class-names",
+          "description": "Tiny (666 bytes gzip size) helper function/high order component to help style custom classNames props like , etc. on 3rd party components using",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2017-12-31T16:27:08Z",
+            "owner": "RIP21",
+            "repo": "with-styled-class-names",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "colors-show",
+          "description": "Present your application colors with style.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2017-05-05T20:04:11Z",
+            "owner": "RafalFilipek",
+            "repo": "colors-show",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "styled-grid-responsive",
+          "description": "Responsive, fluid, deeply nestable, non-flexbox grid system with default or custom breakpoints.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-05-07T19:52:16Z",
+            "owner": "arovillard",
+            "repo": "styled-grid-responsive",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "styled-grid-component",
+          "description": "Grid Element for not writing any more custom grid styles.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-09-30T11:53:47Z",
+            "owner": "Fausto95",
+            "repo": "styled-grid-component",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "styled-ax",
+          "description": "Functional theme property accessor(s).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-03-13T01:24:24Z",
+            "owner": "Lokua",
+            "repo": "styled-ax",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sugUI Components Library",
+          "description": "A UI components library and design system template.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-02-05T12:17:58Z",
+            "owner": "gazpachu",
+            "repo": "sugui-design-system",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-create-component-from-tag-prop",
+          "description": "Create a React component from a tag prop. Lets your users to choose which HTML elements get styled.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-07-23T16:48:45Z",
+            "owner": "jameslnewell",
+            "repo": "react-create-component-from-tag-prop",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "styled-shortcut-components",
+          "description": "A convenience package that wraps with .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-01-18T15:12:58Z",
+            "owner": "donavon",
+            "repo": "styled-shortcut-components",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Archived"
+    },
+    {
+      "description": "To the extent possible under law, Romello Goodman has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T07:04:39.419Z",
+    "original_repository": "styled-components/awesome-styled-components",
+    "original_repository_sha": "2502b4904c6f9eba0eb4df9ba4a0fcc68dea8297",
+    "enhanced_repository": "enhansome/enhansome-styled-components",
+    "enhanced_repository_description": null,
+    "title": "Awesome Styled Components with stars"
+  }
+}
