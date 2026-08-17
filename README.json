@@ -21,10 +21,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T23:27:47Z",
+            "last_commit": "2026-08-17T03:00:18Z",
             "owner": "ariakit",
             "repo": "ariakit",
-            "stars": 8596
+            "stars": 8597
           }
         },
         {
@@ -38,7 +38,7 @@
             "last_commit": "2023-07-27T03:42:53Z",
             "owner": "rebassjs",
             "repo": "rebass",
-            "stars": 7904
+            "stars": 7903
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2020-01-21T04:28:32Z",
             "owner": "LucasBassetti",
             "repo": "react-css-loaders",
-            "stars": 397
+            "stars": 396
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2019-11-05T08:18:59Z",
             "owner": "ariamckinley",
             "repo": "uigradients",
-            "stars": 228
+            "stars": 229
           }
         },
         {
@@ -627,7 +627,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-14T22:31:51Z",
+            "last_commit": "2026-08-16T19:48:00Z",
             "owner": "styled-components",
             "repo": "webstorm-styled-components",
             "stars": 376
@@ -947,10 +947,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T05:38:48Z",
+            "last_commit": "2026-08-17T06:13:29Z",
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141796
+            "stars": 141821
           }
         },
         {
@@ -961,10 +961,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T18:50:53Z",
+            "last_commit": "2026-08-16T22:21:01Z",
             "owner": "strapi",
             "repo": "strapi",
-            "stars": 72938
+            "stars": 72944
           }
         },
         {
@@ -1006,7 +1006,7 @@
             "last_commit": "2026-08-14T17:12:15Z",
             "owner": "prisma",
             "repo": "prisma",
-            "stars": 47577
+            "stars": 47579
           }
         },
         {
@@ -1017,10 +1017,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T02:58:15Z",
+            "last_commit": "2026-08-16T21:37:21Z",
             "owner": "outline",
             "repo": "outline",
-            "stars": 40182
+            "stars": 40200
           }
         },
         {
@@ -1034,7 +1034,7 @@
             "last_commit": "2026-07-15T11:28:12Z",
             "owner": "codesandbox",
             "repo": "codesandbox-client",
-            "stars": 13631
+            "stars": 13632
           }
         },
         {
@@ -1931,7 +1931,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T06:15:11.742Z",
+    "last_updated": "2026-08-17T06:23:06.831Z",
     "original_repository": "styled-components/awesome-styled-components",
     "original_repository_sha": "2502b4904c6f9eba0eb4df9ba4a0fcc68dea8297",
     "enhanced_repository": "enhansome/enhansome-styled-components",
