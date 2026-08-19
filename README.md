@@ -34,7 +34,7 @@
 #### General Resources
 
 * [Official Site](https://www.styled-components.com/)
-* [GitHub](https://github.com/styled-components/styled-components) ⭐ 41,120 | 🐛 19 | 🌐 TypeScript | 📅 2026-08-17
+* [GitHub](https://github.com/styled-components/styled-components) ⭐ 41,121 | 🐛 19 | 🌐 TypeScript | 📅 2026-08-17
 
 #### Community
 
@@ -47,7 +47,7 @@
 
 #### Components
 
-* [ReaKit](https://github.com/diegohaz/reakit) ⭐ 8,597 | 🐛 45 | 🌐 TypeScript | 📅 2026-08-19 - Toolkit for building interactive UIs.
+* [ReaKit](https://github.com/diegohaz/reakit) ⭐ 8,597 | 🐛 58 | 🌐 TypeScript | 📅 2026-08-19 - Toolkit for building interactive UIs.
 * [Rebass](https://github.com/jxnblk/rebass) ⭐ 7,903 | 🐛 95 | 🌐 JavaScript | 📅 2023-07-27 - Functional React UI component library.
 * [React95](https://github.com/arturbien/React95) ⭐ 7,259 | 🐛 45 | 🌐 TypeScript | 📅 2024-01-14 - Windows 95 style UI components.
 * [reactour](https://github.com/elrumordelaluz/reactour) ⭐ 4,087 | 🐛 82 | 🌐 TypeScript | 📅 2026-05-19 - Tourist Guide into your Components.
@@ -133,12 +133,12 @@
 
 ### Real Apps
 
-* [en.kachkaev.ru](https://en.kachkaev.ru) - Personal homepage built with [next.js](https://github.com/zeit/next.js) ⭐ 141,860 | 🐛 4,082 | 🌐 JavaScript | 📅 2026-08-19; also uses GraphQL, Docker, CI and microservice architecture ([source on GitLab](https://gitlab.com/kachkaev/website)).
-* [Strapi Admin Panel](https://github.com/strapi/strapi/tree/master/packages/strapi-admin) ⭐ 72,963 | 🐛 554 | 🌐 TypeScript | 📅 2026-08-18 - Strapi built-in admin panel to build content APIs.
-* [Reactiflux](https://www.reactiflux.com) - Reactiflux community home build with [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,943 | 🐛 421 | 🌐 JavaScript | 📅 2026-08-15 ([source](https://github.com/reactiflux/reactiflux.com) ⭐ 274 | 🐛 24 | 🌐 TypeScript | 📅 2026-08-12).
-* [sachagreif.com](http://sachagreif.com) - Personal homepage built with [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,943 | 🐛 421 | 🌐 JavaScript | 📅 2026-08-15 ([source](https://github.com/SachaG/sg2017) ⭐ 24 | 🐛 28 | 🌐 JavaScript | 📅 2023-01-04).
-* [Prisma](https://www.prisma.io/) - Open-Source GraphQL ORM for GraphQL Servers ([source](https://github.com/prisma/prisma) ⭐ 47,568 | 🐛 2,538 | 🌐 TypeScript | 📅 2026-08-18).
-* [Outline](https://www.getoutline.com) - Wiki for your team ([source](https://github.com/outline/outline) ⭐ 40,236 | 🐛 72 | 🌐 TypeScript | 📅 2026-08-18)
+* [en.kachkaev.ru](https://en.kachkaev.ru) - Personal homepage built with [next.js](https://github.com/zeit/next.js) ⭐ 141,864 | 🐛 4,086 | 🌐 JavaScript | 📅 2026-08-19; also uses GraphQL, Docker, CI and microservice architecture ([source on GitLab](https://gitlab.com/kachkaev/website)).
+* [Strapi Admin Panel](https://github.com/strapi/strapi/tree/master/packages/strapi-admin) ⭐ 72,967 | 🐛 550 | 🌐 TypeScript | 📅 2026-08-19 - Strapi built-in admin panel to build content APIs.
+* [Reactiflux](https://www.reactiflux.com) - Reactiflux community home build with [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,944 | 🐛 422 | 🌐 JavaScript | 📅 2026-08-19 ([source](https://github.com/reactiflux/reactiflux.com) ⭐ 274 | 🐛 25 | 🌐 TypeScript | 📅 2026-08-12).
+* [sachagreif.com](http://sachagreif.com) - Personal homepage built with [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,944 | 🐛 422 | 🌐 JavaScript | 📅 2026-08-19 ([source](https://github.com/SachaG/sg2017) ⭐ 24 | 🐛 28 | 🌐 JavaScript | 📅 2023-01-04).
+* [Prisma](https://www.prisma.io/) - Open-Source GraphQL ORM for GraphQL Servers ([source](https://github.com/prisma/prisma) ⭐ 47,569 | 🐛 2,541 | 🌐 TypeScript | 📅 2026-08-19).
+* [Outline](https://www.getoutline.com) - Wiki for your team ([source](https://github.com/outline/outline) ⭐ 40,245 | 🐛 72 | 🌐 TypeScript | 📅 2026-08-19)
 * [CodeSandbox](https://codesandbox.io/s/new) - An online editor tailored for React development ([source](https://github.com/CompuIves/codesandbox-client) ⭐ 13,633 | 🐛 612 | 🌐 JavaScript | 📅 2026-07-15).
 * [Spectrum](https://spectrum.chat/) - The community platform for the future ([source](https://github.com/withspectrum/spectrum) ⚠️ Archived).
 * [Grabient.com](https://www.grabient.com) - A beautiful and simple UI for generating web gradients. ([source](https://github.com/johnkorzhuk/grabient/) ⭐ 2,013 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-17).
