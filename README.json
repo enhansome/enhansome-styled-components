@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 104133653,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T12:47:51Z",
+                "last_commit": "2026-08-20T05:37:48Z",
                 "owner": "ariakit",
                 "repo": "ariakit",
                 "stars": 8597
@@ -47,7 +47,7 @@
                 "last_commit": "2024-01-14T20:52:31Z",
                 "owner": "react95-io",
                 "repo": "React95",
-                "stars": 7259
+                "stars": 7260
               }
             },
             {
@@ -74,10 +74,10 @@
                 "archived": false,
                 "id": 125463757,
                 "language": "TypeScript",
-                "last_commit": "2026-07-22T00:58:54Z",
+                "last_commit": "2026-08-19T23:27:34Z",
                 "owner": "jbetancur",
                 "repo": "react-data-table-component",
-                "stars": 2229
+                "stars": 2228
               }
             },
             {
@@ -923,7 +923,7 @@
                 "last_commit": "2023-03-23T21:35:09Z",
                 "owner": "react-boilerplate",
                 "repo": "react-boilerplate",
-                "stars": 29493
+                "stars": 29492
               }
             },
             {
@@ -1006,10 +1006,10 @@
             "archived": false,
             "id": 70107786,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T12:42:37Z",
+            "last_commit": "2026-08-20T06:10:18Z",
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141864
+            "stars": 141875
           }
         },
         {
@@ -1021,10 +1021,10 @@
             "archived": false,
             "id": 43441403,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T12:53:04Z",
+            "last_commit": "2026-08-19T15:11:08Z",
             "owner": "strapi",
             "repo": "strapi",
-            "stars": 72967
+            "stars": 72971
           }
         },
         {
@@ -1036,10 +1036,10 @@
             "archived": false,
             "id": 36040894,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T11:32:21Z",
+            "last_commit": "2026-08-19T18:23:45Z",
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55944
+            "stars": 55941
           }
         },
         {
@@ -1051,10 +1051,10 @@
             "archived": false,
             "id": 36040894,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T11:32:21Z",
+            "last_commit": "2026-08-19T18:23:45Z",
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55944
+            "stars": 55941
           }
         },
         {
@@ -1066,10 +1066,10 @@
             "archived": false,
             "id": 192925833,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T12:49:59Z",
+            "last_commit": "2026-08-19T16:31:06Z",
             "owner": "prisma",
             "repo": "prisma",
-            "stars": 47569
+            "stars": 47572
           }
         },
         {
@@ -1081,10 +1081,10 @@
             "archived": false,
             "id": 59435364,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T12:25:00Z",
+            "last_commit": "2026-08-20T03:38:11Z",
             "owner": "outline",
             "repo": "outline",
-            "stars": 40245
+            "stars": 40252
           }
         },
         {
@@ -1126,7 +1126,7 @@
             "archived": false,
             "id": 90497456,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T23:18:18Z",
+            "last_commit": "2026-08-19T18:31:05Z",
             "owner": "johnkorzhuk",
             "repo": "grabient",
             "stars": 2013
@@ -1171,7 +1171,7 @@
             "archived": false,
             "id": 258075566,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T01:09:58Z",
+            "last_commit": "2026-08-19T14:51:05Z",
             "owner": "hackclub",
             "repo": "site",
             "stars": 276
@@ -1261,7 +1261,7 @@
             "archived": false,
             "id": 78586643,
             "language": "JavaScript",
-            "last_commit": "2023-01-03T21:45:30Z",
+            "last_commit": "2026-08-20T06:13:29Z",
             "owner": "dirtyredz",
             "repo": "dirtyredz.com",
             "stars": 11
@@ -2043,7 +2043,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:54:12.083Z",
+    "last_updated": "2026-08-20T06:19:25.521Z",
     "original_repository": "styled-components/awesome-styled-components",
     "original_repository_id": 89063440,
     "original_repository_sha": "2502b4904c6f9eba0eb4df9ba4a0fcc68dea8297",
