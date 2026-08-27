@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 104133653,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T00:31:00Z",
+                "last_commit": "2026-08-27T14:14:31Z",
                 "owner": "ariakit",
                 "repo": "ariakit",
                 "stars": 8607
@@ -1028,10 +1028,10 @@
             "archived": false,
             "id": 70107786,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T11:00:21Z",
+            "last_commit": "2026-08-27T16:45:03Z",
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141958
+            "stars": 141962
           }
         },
         {
@@ -1043,10 +1043,10 @@
             "archived": false,
             "id": 43441403,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:22:52Z",
+            "last_commit": "2026-08-27T15:32:07Z",
             "owner": "strapi",
             "repo": "strapi",
-            "stars": 73018
+            "stars": 73017
           }
         },
         {
@@ -1061,7 +1061,7 @@
             "last_commit": "2026-08-27T10:47:01Z",
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55942
+            "stars": 55941
           }
         },
         {
@@ -1076,7 +1076,7 @@
             "last_commit": "2026-08-27T10:47:01Z",
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55942
+            "stars": 55941
           }
         },
         {
@@ -1088,7 +1088,7 @@
             "archived": false,
             "id": 192925833,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:29:22Z",
+            "last_commit": "2026-08-27T15:11:54Z",
             "owner": "prisma",
             "repo": "orm",
             "stars": 47566
@@ -1106,7 +1106,7 @@
             "last_commit": "2026-08-26T02:16:44Z",
             "owner": "outline",
             "repo": "outline",
-            "stars": 40351
+            "stars": 40353
           }
         },
         {
@@ -1193,7 +1193,7 @@
             "archived": false,
             "id": 258075566,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T22:24:29Z",
+            "last_commit": "2026-08-27T15:15:32Z",
             "owner": "hackclub",
             "repo": "site",
             "stars": 280
@@ -2065,7 +2065,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:03:59.648Z",
+    "last_updated": "2026-08-27T16:51:09.276Z",
     "original_repository_info": {
       "archived": false,
       "id": 89063440,
