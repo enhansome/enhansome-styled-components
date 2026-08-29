@@ -12,12 +12,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Toolkit with accessible components, styles, and examples for your next web app",
+                "homepage": "https://ariakit.com",
                 "id": 104133653,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T06:07:07Z",
+                "license": null,
+                "last_commit": "2026-08-29T04:09:51Z",
+                "open_issues": 43,
                 "owner": "ariakit",
                 "repo": "ariakit",
-                "stars": 8607
+                "stars": 8607,
+                "topics": [
+                  "a11y",
+                  "accessibility",
+                  "accessible",
+                  "aria",
+                  "ariakit",
+                  "components",
+                  "css",
+                  "react",
+                  "reactjs",
+                  "tailwindcss",
+                  "wai-aria"
+                ]
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -28,12 +45,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":atom_symbol: React primitive UI components built with styled-system.",
+                "homepage": "https://rebassjs.org",
                 "id": 30652354,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-07-27T03:42:53Z",
+                "open_issues": 95,
                 "owner": "rebassjs",
                 "repo": "rebass",
-                "stars": 7904
+                "stars": 7904,
+                "topics": [
+                  "color",
+                  "components",
+                  "css",
+                  "design-system",
+                  "emotion",
+                  "grid",
+                  "javascript",
+                  "layout",
+                  "react",
+                  "react-components",
+                  "rebass",
+                  "styled-components",
+                  "styled-system",
+                  "theme",
+                  "typography",
+                  "ui"
+                ]
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -44,12 +83,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌈🕹  Windows 95 style UI component library for React",
+                "homepage": "https://react95.io",
                 "id": 171368195,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-01-14T20:52:31Z",
+                "open_issues": 45,
                 "owner": "react95-io",
                 "repo": "React95",
-                "stars": 7262
+                "stars": 7263,
+                "topics": [
+                  "component-library",
+                  "components",
+                  "design-system",
+                  "react",
+                  "reactjs",
+                  "styled-components",
+                  "ui",
+                  "ui-kit",
+                  "vaporwave",
+                  "windows95"
+                ]
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -60,12 +115,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tourist Guide into your React Components",
+                "homepage": "https://www.reactour.dev",
                 "id": 85344269,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-19T17:02:35Z",
+                "open_issues": 82,
                 "owner": "elrumordelaluz",
                 "repo": "reactour",
-                "stars": 4086
+                "stars": 4086,
+                "topics": [
+                  "getting-started",
+                  "guide",
+                  "guided-tours",
+                  "hacktoberfest",
+                  "intro",
+                  "introduction",
+                  "joyride",
+                  "onboarding",
+                  "presentation",
+                  "product-intro",
+                  "product-onboarding",
+                  "react",
+                  "react-components",
+                  "reactjs",
+                  "step-by-step",
+                  "tour",
+                  "tourist-guide",
+                  "walkthrough"
+                ]
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -76,12 +155,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A responsive table library with built-in sorting, pagination, selection, expandable rows, and customizable styling.",
+                "homepage": "https://reactdatatable.com",
                 "id": 125463757,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-19T23:27:34Z",
+                "open_issues": 10,
                 "owner": "jbetancur",
                 "repo": "react-data-table-component",
-                "stars": 2231
+                "stars": 2231,
+                "topics": [
+                  "react",
+                  "react-components",
+                  "reactjs",
+                  "table"
+                ]
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -92,12 +181,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "💅 Popular icon packs like Font Awesome, Material Design, and Octicons, available as React Styled Components",
+                "homepage": "https://styled-icons.dev",
                 "id": 129922398,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-24T13:50:57Z",
+                "open_issues": 20,
                 "owner": "styled-icons",
                 "repo": "styled-icons",
-                "stars": 2099
+                "stars": 2099,
+                "topics": [
+                  "boxicons",
+                  "cryptoicons",
+                  "evil-icons",
+                  "feather-icons",
+                  "font-awesome",
+                  "foundation-icons",
+                  "hacktoberfest",
+                  "heroicons",
+                  "icomoon",
+                  "icon-packs",
+                  "icons",
+                  "material",
+                  "material-icons",
+                  "octicons",
+                  "open-iconic",
+                  "react",
+                  "styled-components",
+                  "svg",
+                  "typicons",
+                  "zondicons"
+                ]
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -108,12 +223,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":speech_balloon: Easy way to create conversation chats",
+                "homepage": "https://lucasbassetti.com.br/react-simple-chatbot/",
                 "id": 88222263,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-11-19T13:32:21Z",
+                "open_issues": 132,
                 "owner": "LucasBassetti",
                 "repo": "react-simple-chatbot",
-                "stars": 1754
+                "stars": 1754,
+                "topics": [
+                  "chat",
+                  "chatbot",
+                  "conversational-ui",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -124,12 +249,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Modern React UI library 💅👩‍🎤🍭",
+                "homepage": null,
                 "id": 115018676,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-06-19T19:51:40Z",
+                "open_issues": 10,
                 "owner": "smooth-code",
                 "repo": "smooth-ui",
-                "stars": 1594
+                "stars": 1594,
+                "topics": [
+                  "bootstrap",
+                  "material-ui",
+                  "react",
+                  "styled-components",
+                  "ui",
+                  "ui-components",
+                  "ui-library"
+                ]
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -140,12 +278,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Make any URL embeddable. Turn any URL into a beautiful link preview.",
+                "homepage": "https://microlink.io/sdk",
                 "id": 112842752,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-08-03T20:07:10Z",
+                "open_issues": 7,
                 "owner": "microlinkhq",
                 "repo": "sdk",
-                "stars": 623
+                "stars": 623,
+                "topics": [
+                  "cards",
+                  "embed",
+                  "iframe",
+                  "link-preview",
+                  "links",
+                  "preview"
+                ]
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -156,12 +306,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":o: A collection of pure CSS React loading components",
+                "homepage": "https://lucasbassetti.com.br/react-css-loaders/",
                 "id": 91192755,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-01-21T04:28:32Z",
+                "open_issues": 2,
                 "owner": "LucasBassetti",
                 "repo": "react-css-loaders",
-                "stars": 396
+                "stars": 396,
+                "topics": [
+                  "loaders",
+                  "pure-css",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -172,12 +331,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Iconography for Grommet and React.js",
+                "homepage": "https://icons.grommet.io",
                 "id": 102415008,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-18T10:24:50Z",
+                "open_issues": 45,
                 "owner": "grommet",
                 "repo": "grommet-icons",
-                "stars": 342
+                "stars": 342,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -188,12 +352,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reusable react components for epic-spinners ",
+                "homepage": "https://bondz.github.io/react-epic-spinners/",
                 "id": 118123210,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-22T23:13:04Z",
+                "open_issues": 6,
                 "owner": "bondz",
                 "repo": "react-epic-spinners",
-                "stars": 340
+                "stars": 340,
+                "topics": [
+                  "animations",
+                  "css-spinners",
+                  "epic-spinners",
+                  "javascript",
+                  "loading-animations",
+                  "loading-spinner",
+                  "react",
+                  "spinner"
+                ]
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -204,12 +382,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gradients-as-a-react-component™",
+                "homepage": "https://uigradients.syntra.io",
                 "id": 72833919,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-11-05T08:18:59Z",
+                "open_issues": 2,
                 "owner": "ariamckinley",
                 "repo": "uigradients",
-                "stars": 229
+                "stars": 229,
+                "topics": [
+                  "gradient-generator",
+                  "react",
+                  "reactjs",
+                  "styled-components"
+                ]
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -220,12 +408,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A library of React UI components",
+                "homepage": "https://balena-io-modules.github.io/rendition",
                 "id": 80240652,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2024-10-10T08:57:57Z",
+                "open_issues": 132,
                 "owner": "balena-io-modules",
                 "repo": "rendition",
-                "stars": 212
+                "stars": 212,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -236,12 +429,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Styled modal component for React 💅⚛️",
+                "homepage": null,
                 "id": 127663925,
                 "language": "JavaScript",
+                "license": "Unlicense",
                 "last_commit": "2024-12-08T18:09:33Z",
+                "open_issues": 6,
                 "owner": "AlexanderRichey",
                 "repo": "styled-react-modal",
-                "stars": 210
+                "stars": 210,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -252,12 +450,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Micro-sized & micro-optimized select component for React.js",
+                "homepage": "https://master--625676b6922472003af898b4.chromatic.com",
                 "id": 216465085,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-12-24T00:40:14Z",
+                "open_issues": 14,
                 "owner": "based-ghost",
                 "repo": "react-functional-select",
-                "stars": 196
+                "stars": 196,
+                "topics": [
+                  "dropdown",
+                  "functional",
+                  "multi-select",
+                  "performance",
+                  "react",
+                  "react-components",
+                  "react-functional-select",
+                  "select",
+                  "styled-components",
+                  "virtualization",
+                  "windowing"
+                ]
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -268,12 +483,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Hack Club's (old) design system",
+                "homepage": "https://hackclub.github.io/design-system",
                 "id": 115207436,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-09-27T20:36:11Z",
+                "open_issues": 9,
                 "owner": "hackclub",
                 "repo": "design-system",
-                "stars": 159
+                "stars": 159,
+                "topics": [
+                  "design-system",
+                  "hackclub"
+                ]
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -284,12 +507,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Select control built with Reactjs, styled-components and :heart: http://agutoli.github.io/",
+                "homepage": null,
                 "id": 95509155,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-03-25T08:17:51Z",
+                "open_issues": 8,
                 "owner": "agutoli",
                 "repo": "react-styled-select",
-                "stars": 108
+                "stars": 108,
+                "topics": [
+                  "css3",
+                  "javascript",
+                  "react",
+                  "select",
+                  "styled-components"
+                ]
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -300,12 +534,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple off canvas menu built with styled-components 💅",
+                "homepage": "styled-off-canvas.vercel.app",
                 "id": 221882120,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-21T10:58:59Z",
+                "open_issues": 8,
                 "owner": "marco-streng",
                 "repo": "styled-off-canvas",
-                "stars": 77
+                "stars": 77,
+                "topics": [
+                  "mobile",
+                  "navigation",
+                  "off-canvas",
+                  "react",
+                  "styled-components"
+                ]
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -316,12 +561,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ReactJS ARIA tooltip",
+                "homepage": null,
                 "id": 56990803,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-10T20:05:15Z",
+                "open_issues": 22,
                 "owner": "egoens",
                 "repo": "react-aria-tooltip",
-                "stars": 57
+                "stars": 57,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -332,12 +582,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "grape-ui: the responsive react UI framework built upon styled components, styled system, and open source components",
+                "homepage": "https://www.grapeui.com",
                 "id": 254415905,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-07-10T22:02:33Z",
+                "open_issues": 16,
                 "owner": "napagroup",
                 "repo": "grape-ui-react",
-                "stars": 43
+                "stars": 43,
+                "topics": [
+                  "grape-ui",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -348,12 +606,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Floating label component which works with any HTML input",
+                "homepage": "https://www.npmjs.com/package/react-styled-floating-label",
                 "id": 183924543,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-01-03T20:48:39Z",
+                "open_issues": 23,
                 "owner": "ihor",
                 "repo": "react-styled-floating-label",
-                "stars": 38
+                "stars": 38,
+                "topics": [
+                  "floating-labels",
+                  "labels",
+                  "react",
+                  "reactjs",
+                  "styled",
+                  "styled-components"
+                ]
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             }
@@ -371,12 +641,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build declarative, responsive layouts in React using CSS Grid.",
+                "homepage": "https://redd.gitbook.io/atomic-layout",
                 "id": 132780196,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-01-07T09:37:03Z",
+                "open_issues": 33,
                 "owner": "kettanaito",
                 "repo": "atomic-layout",
-                "stars": 1138
+                "stars": 1138,
+                "topics": [
+                  "atom",
+                  "atomic-design",
+                  "atomic-layout",
+                  "composition",
+                  "css-grid",
+                  "layout",
+                  "react",
+                  "responsive-props",
+                  "styled-components"
+                ]
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -387,12 +672,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A no-frills flexbox grid system for React, powered by styled-components.",
+                "homepage": "https://aritheelk.github.io/hedron/",
                 "id": 72926058,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-12-15T03:50:06Z",
+                "open_issues": 6,
                 "owner": "ariamckinley",
                 "repo": "hedron",
-                "stars": 862
+                "stars": 862,
+                "topics": [
+                  "flexbox",
+                  "react",
+                  "reactjs",
+                  "styled-components"
+                ]
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -403,12 +698,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Grid system based on styled-components and flexbox for React",
+                "homepage": "https://loicmahieu.github.io/react-styled-flexboxgrid/demo/index.html",
                 "id": 79905342,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-04-02T14:11:05Z",
+                "open_issues": 48,
                 "owner": "LoicMahieu",
                 "repo": "react-styled-flexboxgrid",
-                "stars": 552
+                "stars": 552,
+                "topics": [
+                  "flexbox",
+                  "grid",
+                  "react",
+                  "styled-components"
+                ]
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -419,12 +724,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Foundational Layout Primitives for your React App",
+                "homepage": "https://bedrock-layout.dev/",
                 "id": 248666991,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T03:55:25Z",
+                "open_issues": 5,
                 "owner": "Bedrock-Layouts",
                 "repo": "Bedrock",
-                "stars": 449
+                "stars": 449,
+                "topics": [
+                  "css-flexbox",
+                  "css-grid",
+                  "grid-layout",
+                  "grid-system",
+                  "layout",
+                  "layouts"
+                ]
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -435,12 +752,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A responsive 8-point grid system layout for React using styled-components ",
+                "homepage": "https://awesome-styled-grid.netlify.app/",
                 "id": 148913149,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-09-12T01:15:59Z",
+                "open_issues": 7,
                 "owner": "santosfrancisco",
                 "repo": "react-awesome-styled-grid",
-                "stars": 220
+                "stars": 220,
+                "topics": [
+                  "8pt-grid",
+                  "grid",
+                  "grid-layout",
+                  "grid-system",
+                  "mobile-first",
+                  "react",
+                  "react-grid",
+                  "reactjs",
+                  "responsive",
+                  "styled-components"
+                ]
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -451,12 +784,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Full Twitter Bootstrap v4 grid system implementation",
+                "homepage": null,
                 "id": 86829807,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-01-04T21:50:05Z",
+                "open_issues": 37,
                 "owner": "dragma",
                 "repo": "styled-bootstrap-grid",
-                "stars": 165
+                "stars": 165,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -467,12 +805,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Responsive React Flexbox (CSS Flexible Box Layout Module) grid system based heavily on the standard CSS API.",
+                "homepage": "https://aaronvanston.github.io/react-flexa/",
                 "id": 87036958,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-07T01:01:15Z",
+                "open_issues": 29,
                 "owner": "aaronvanston",
                 "repo": "react-flexa",
-                "stars": 132
+                "stars": 132,
+                "topics": [
+                  "breakpoint",
+                  "css",
+                  "flex",
+                  "flexa",
+                  "flexbox",
+                  "grid",
+                  "react",
+                  "responsive",
+                  "styled-components"
+                ]
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -483,12 +836,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Advanced grid- and styling-system which is highly customizable and ready for server-side-rendering.",
+                "homepage": "https://andreasfaust.github.io/react-raster-docs/",
                 "id": 176776850,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-04-28T19:39:18Z",
+                "open_issues": 7,
                 "owner": "AndreasFaust",
                 "repo": "react-raster",
-                "stars": 80
+                "stars": 80,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -499,12 +857,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Flexbox grid ready, easy to implement and customize",
+                "homepage": "https://react-flex-ready.vercel.app/",
                 "id": 194082914,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-04-03T15:00:20Z",
+                "open_issues": 0,
                 "owner": "smakosh",
                 "repo": "react-flex-ready",
-                "stars": 60
+                "stars": 60,
+                "topics": [
+                  "component",
+                  "css",
+                  "flexbox",
+                  "grid",
+                  "grid-system",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -515,12 +885,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A styled-components implementation of Thoughtbot's Neat",
+                "homepage": null,
                 "id": 95310320,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-10-16T18:48:53Z",
+                "open_issues": 8,
                 "owner": "magicink",
                 "repo": "neat-components",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "css",
+                  "grid",
+                  "neat",
+                  "react",
+                  "styled-components",
+                  "thoughtbot"
+                ]
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -531,12 +913,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Making React Native layouts a cinch",
+                "homepage": null,
                 "id": 169728349,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-01-06T01:59:28Z",
+                "open_issues": 9,
                 "owner": "jim-at-jibba",
                 "repo": "react-native-cinch-layout",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             }
@@ -554,12 +941,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⬢ Style props for rapid UI development",
+                "homepage": "https://styled-system.com",
                 "id": 94380465,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-01-12T19:55:49Z",
+                "open_issues": 236,
                 "owner": "styled-system",
                 "repo": "styled-system",
-                "stars": 7865
+                "stars": 7865,
+                "topics": [
+                  "colors",
+                  "css",
+                  "css-in-js",
+                  "design-systems",
+                  "emotion",
+                  "layout",
+                  "react",
+                  "responsive",
+                  "style-props",
+                  "styled-components",
+                  "styling",
+                  "theming",
+                  "tokens",
+                  "typography"
+                ]
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -570,12 +977,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lightweight toolset for writing styles in JavaScript ✨",
+                "homepage": "https://polished.js.org/",
                 "id": 72754695,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-03-26T23:06:08Z",
+                "open_issues": 34,
                 "owner": "styled-components",
                 "repo": "polished",
-                "stars": 7663
+                "stars": 7663,
+                "topics": [
+                  "css-in-js",
+                  "inline-styles",
+                  "styled-components",
+                  "styling"
+                ]
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -586,12 +1003,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create themes for your app using styled-components",
+                "homepage": null,
                 "id": 98470014,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-06-10T12:19:58Z",
+                "open_issues": 9,
                 "owner": "styled-components",
                 "repo": "styled-theming",
-                "stars": 1170
+                "stars": 1170,
+                "topics": [
+                  "css-in-js",
+                  "react",
+                  "styled-components",
+                  "theming"
+                ]
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -602,12 +1029,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Useful interpolated functions for CSS-in-JS",
+                "homepage": null,
                 "id": 79531500,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-06T22:19:21Z",
+                "open_issues": 15,
                 "owner": "diegohaz",
                 "repo": "styled-tools",
-                "stars": 799
+                "stars": 799,
+                "topics": [
+                  "css-in-js",
+                  "emotion",
+                  "jss",
+                  "lodash",
+                  "react",
+                  "styled-components",
+                  "utilities"
+                ]
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -618,12 +1058,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "✨A super simple way to map props to styles with Styled Components ⚠️ See README.md",
+                "homepage": null,
                 "id": 89494386,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-02-03T13:48:34Z",
+                "open_issues": 0,
                 "owner": "scf4",
                 "repo": "styled-map",
-                "stars": 588
+                "stars": 588,
+                "topics": [
+                  "css",
+                  "emotionjs",
+                  "helper",
+                  "helpers",
+                  "react",
+                  "styled-components"
+                ]
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -634,12 +1086,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Powerful CSS-in-JS media queries with SSR support.",
+                "homepage": "https://www.npmjs.com/package/styled-breakpoints",
                 "id": 131664710,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T08:46:18Z",
+                "open_issues": 1,
                 "owner": "mg901",
                 "repo": "styled-breakpoints",
-                "stars": 557
+                "stars": 557,
+                "topics": [
+                  "breakpoint",
+                  "breakpoints",
+                  "css-in-js",
+                  "css-in-react",
+                  "emotion",
+                  "media",
+                  "media-queries",
+                  "media-query",
+                  "react",
+                  "responsive-design",
+                  "responsive-layout",
+                  "styled-components",
+                  "styled-media-query",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -650,12 +1122,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "👩‍🎨 Access your design tokens with ease",
+                "homepage": "https://zander.wtf",
                 "id": 102257345,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2020-03-06T05:37:05Z",
+                "open_issues": 12,
                 "owner": "mrmartineau",
                 "repo": "design-system-utils",
-                "stars": 542
+                "stars": 542,
+                "topics": [
+                  "css-in-js",
+                  "design-tokens",
+                  "emotion",
+                  "preact",
+                  "react",
+                  "styled-components",
+                  "tokens",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -666,12 +1152,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "normalize.css for styled-components",
+                "homepage": "https://npmjs.com/styled-normalize",
                 "id": 79799977,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-02-08T13:08:14Z",
+                "open_issues": 7,
                 "owner": "sergeysova",
                 "repo": "styled-normalize",
-                "stars": 441
+                "stars": 441,
+                "topics": [
+                  "css",
+                  "normalize",
+                  "react",
+                  "styled",
+                  "styled-components"
+                ]
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -682,12 +1179,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Eric Meyer's Reset CSS for styled-components",
+                "homepage": "http://npm.im/styled-reset",
                 "id": 96843886,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-10T14:56:01Z",
+                "open_issues": 0,
                 "owner": "zautumnz",
                 "repo": "styled-reset",
-                "stars": 388
+                "stars": 388,
+                "topics": [
+                  "css",
+                  "css-reset",
+                  "reset",
+                  "reset-css",
+                  "styled",
+                  "styled-components"
+                ]
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -698,12 +1207,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "styled-components highlighting support in IntelliJ editors",
+                "homepage": "https://plugins.jetbrains.com/plugin/9997-styled-components",
                 "id": 101891547,
                 "language": "Kotlin",
+                "license": "MIT",
                 "last_commit": "2026-08-26T14:13:10Z",
+                "open_issues": 25,
                 "owner": "styled-components",
                 "repo": "webstorm-styled-components",
-                "stars": 376
+                "stars": 376,
+                "topics": [
+                  "styled-components",
+                  "syntax-highlighting",
+                  "webstorm",
+                  "webstorm-plugin"
+                ]
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -714,12 +1233,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Configurable Vertical Rhythm & Typography in CSS-in-JS",
+                "homepage": null,
                 "id": 89897151,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-01-08T01:28:02Z",
+                "open_issues": 11,
                 "owner": "kyleshevlin",
                 "repo": "shevyjs",
-                "stars": 319
+                "stars": 319,
+                "topics": [
+                  "css-in-js",
+                  "javascript",
+                  "react",
+                  "typography",
+                  "vertical-rhythm"
+                ]
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -730,12 +1260,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library to enable BEM flavored modifiers (and responsive modifiers) in styled components.",
+                "homepage": null,
                 "id": 105824250,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-05-23T04:53:26Z",
+                "open_issues": 23,
                 "owner": "Decisiv",
                 "repo": "styled-components-modifiers",
-                "stars": 297
+                "stars": 297,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -746,12 +1281,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "💌 styled-components for emails",
+                "homepage": null,
                 "id": 138510870,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-08T14:02:23Z",
+                "open_issues": 11,
                 "owner": "sbekrin",
                 "repo": "styled-email-components",
-                "stars": 256
+                "stars": 256,
+                "topics": [
+                  "css",
+                  "css-in-js",
+                  "emails",
+                  "react",
+                  "styled-components"
+                ]
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -762,12 +1308,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 114415373,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2022-12-08T18:53:20Z",
+                "open_issues": 18,
                 "owner": "gabiseabra",
                 "repo": "styled-transition-group",
-                "stars": 158
+                "stars": 158,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -778,12 +1329,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":art: Deal with responsive design simply when use CSS-in-JS  (styled-components,emotion.js)",
+                "homepage": "https://www.npmjs.com/package/css-in-js-media",
                 "id": 187421360,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-02-28T18:57:36Z",
+                "open_issues": 10,
                 "owner": "Brew-Brew",
                 "repo": "css-in-js-media",
-                "stars": 141
+                "stars": 140,
+                "topics": [
+                  "css",
+                  "emotion",
+                  "include-media",
+                  "styled-components"
+                ]
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -794,12 +1355,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Transform Tags with style-props to styled components",
+                "homepage": null,
                 "id": 199312870,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-06T13:32:37Z",
+                "open_issues": 9,
                 "owner": "Agreon",
                 "repo": "styco",
-                "stars": 94
+                "stars": 94,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -810,12 +1376,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extension of styled-components with features for convert px to vw units",
+                "homepage": null,
                 "id": 153404974,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-08-13T03:56:58Z",
+                "open_issues": 5,
                 "owner": "hnzycfcfed",
                 "repo": "styled-px2vw",
-                "stars": 92
+                "stars": 92,
+                "topics": [
+                  "css",
+                  "css-in-js",
+                  "frontend",
+                  "px-to-vw",
+                  "px2vw",
+                  "react",
+                  "styled-components",
+                  "styled-px2vw"
+                ]
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -826,12 +1406,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":nail_care: Helps manage media queries with styled components",
+                "homepage": null,
                 "id": 142010514,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-03-04T02:45:25Z",
+                "open_issues": 7,
                 "owner": "dvpnt",
                 "repo": "styled-media-helper",
-                "stars": 76
+                "stars": 76,
+                "topics": [
+                  "breakpoint",
+                  "breakpoints",
+                  "css",
+                  "css-in-js",
+                  "css-in-react",
+                  "cssinjs",
+                  "media",
+                  "media-queries",
+                  "media-query",
+                  "styled-components"
+                ]
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -842,12 +1438,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Style your components declaratively with familiar less syntax",
+                "homepage": null,
                 "id": 143616654,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-03T18:31:05Z",
+                "open_issues": 46,
                 "owner": "jean343",
                 "repo": "styless",
-                "stars": 66
+                "stars": 66,
+                "topics": [
+                  "babel",
+                  "less",
+                  "styled-components",
+                  "styled-components-theme"
+                ]
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -858,12 +1464,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tiny (117 bytes) and blazing fast standalone helper for creating consistent spacing between the elements of your UI",
+                "homepage": null,
                 "id": 220649197,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-03-25T23:21:52Z",
+                "open_issues": 5,
                 "owner": "binjospookie",
                 "repo": "spacing-helper",
-                "stars": 48
+                "stars": 48,
+                "topics": [
+                  "cssinjs",
+                  "emotion",
+                  "helper",
+                  "spacing",
+                  "styled-components",
+                  "tiny",
+                  "ui"
+                ]
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -874,12 +1493,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MetaComponent makes React, Django, Vue, Mustache/Handlebars, Angular, etc. REPL: ",
+                "homepage": "https://springload.github.io/metacomponent/",
                 "id": 268781212,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2020-08-25T08:11:57Z",
+                "open_issues": 0,
                 "owner": "springload",
                 "repo": "metacomponent",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "angular",
+                  "component",
+                  "ember",
+                  "handlebars",
+                  "react",
+                  "typescript",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -890,12 +1522,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "VSCode extension that extracts unbound JSX tags into styled-components",
+                "homepage": "https://marketplace.visualstudio.com/items?itemName=FallenMax.styled-components-extractor",
                 "id": 171457942,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-24T14:23:05Z",
+                "open_issues": 0,
                 "owner": "FallenMax",
                 "repo": "styled-components-extractor",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -906,12 +1543,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bootstrap 4 reboot.css for styled-components",
+                "homepage": "https://www.npmjs.com/package/styled-reboot",
                 "id": 108067371,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T17:17:21Z",
+                "open_issues": 16,
                 "owner": "alexruzzarin",
                 "repo": "styled-reboot",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "bootstrap",
+                  "css",
+                  "react",
+                  "reboot",
+                  "styled-components"
+                ]
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -922,12 +1570,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ThemeMiner is the missing piece for styled-components.",
+                "homepage": null,
                 "id": 169434615,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-06T02:00:15Z",
+                "open_issues": 7,
                 "owner": "doubco",
                 "repo": "thememiner",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -938,12 +1591,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mix tachyons into styled-components.",
+                "homepage": "https://stackblitz.com/edit/styled-tachyons-example",
                 "id": 148334720,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-03-04T02:50:16Z",
+                "open_issues": 16,
                 "owner": "linonetwo",
                 "repo": "styled-tachyons",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -954,12 +1612,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React command line template generator ",
+                "homepage": null,
                 "id": 164839251,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2026-01-30T21:51:09Z",
+                "open_issues": 7,
                 "owner": "yannvr",
                 "repo": "react-components-cli",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "command-line",
+                  "plop",
+                  "react",
+                  "react-cli",
+                  "react-component-cli",
+                  "react-components-cli",
+                  "styled-component",
+                  "styled-component-cli",
+                  "template"
+                ]
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             }
@@ -977,12 +1650,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔧 💅 Jest utilities for Styled Components",
+                "homepage": null,
                 "id": 85395980,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-06-29T22:16:53Z",
+                "open_issues": 5,
                 "owner": "styled-components",
                 "repo": "jest-styled-components",
-                "stars": 1580
+                "stars": 1580,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             }
@@ -1000,12 +1678,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔥 A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.",
+                "homepage": "https://www.reactboilerplate.com",
                 "id": 30969188,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-03-23T21:35:09Z",
+                "open_issues": 140,
                 "owner": "react-boilerplate",
                 "repo": "react-boilerplate",
-                "stars": 29490
+                "stars": 29489,
+                "topics": [
+                  "i18n",
+                  "immer",
+                  "offline-first",
+                  "react",
+                  "react-boilerplate",
+                  "redux",
+                  "redux-saga",
+                  "scaffolding",
+                  "styled-components",
+                  "webpack4"
+                ]
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -1016,12 +1710,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React starter kit based on Atomic Design",
+                "homepage": "https://arc.js.org",
                 "id": 70382340,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-02-12T09:10:40Z",
+                "open_issues": 64,
                 "owner": "diegohaz",
                 "repo": "arc",
-                "stars": 2925
+                "stars": 2925,
+                "topics": [
+                  "atomic-design",
+                  "boilerplate",
+                  "css-in-js",
+                  "isomorphic",
+                  "jest",
+                  "react",
+                  "react-router",
+                  "redux",
+                  "redux-saga",
+                  "starter-kit",
+                  "storybook",
+                  "styled-components",
+                  "universal"
+                ]
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -1032,12 +1745,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Minimal & Modern boilerplate for building apps with React & styled-components",
+                "homepage": "https://styled-react-boilerplate.now.sh",
                 "id": 153951740,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-04-30T03:48:46Z",
+                "open_issues": 1,
                 "owner": "xxczaki",
                 "repo": "styled-react-boilerplate",
-                "stars": 210
+                "stars": 210,
+                "topics": [
+                  "babel",
+                  "babel7",
+                  "boilerplate",
+                  "minimal",
+                  "modern",
+                  "modern-normalize",
+                  "react",
+                  "simple",
+                  "styled-components",
+                  "stylelint",
+                  "webpack",
+                  "webpack4",
+                  "xo"
+                ]
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -1048,12 +1780,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "💅 A Gatsby Theme with styled-components",
+                "homepage": "https://superstylin.netlify.com/",
                 "id": 86649865,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-01-11T19:39:29Z",
+                "open_issues": 52,
                 "owner": "bntzio",
                 "repo": "gatsby-theme-superstylin",
-                "stars": 170
+                "stars": 170,
+                "topics": [
+                  "blog",
+                  "css-in-js",
+                  "gatsby",
+                  "gatsby-theme",
+                  "hacktoberfest",
+                  "landing-page",
+                  "react",
+                  "static-site",
+                  "styled-components"
+                ]
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             },
@@ -1064,12 +1811,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Add redux, emotion-js and other useful libraries like react-router in top of create-react-app",
+                "homepage": "https://jonidelv.github.io/generator-create-redux-app/",
                 "id": 83929869,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-06T01:44:36Z",
+                "open_issues": 14,
                 "owner": "jonidelv",
                 "repo": "generator-create-redux-app",
-                "stars": 139
+                "stars": 139,
+                "topics": [
+                  "boilerplate",
+                  "create-react-app",
+                  "react",
+                  "redux",
+                  "scaffolding",
+                  "starter",
+                  "yeoman-generator"
+                ]
               },
               "first_seen": "2026-08-28T17:43:45.833Z"
             }
@@ -1091,12 +1851,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The React Framework",
+            "homepage": "https://nextjs.org",
             "id": 70107786,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T17:40:35Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T00:19:20Z",
+            "open_issues": 3638,
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141972
+            "stars": 141980,
+            "topics": [
+              "blog",
+              "browser",
+              "compiler",
+              "components",
+              "hybrid",
+              "nextjs",
+              "node",
+              "react",
+              "server-rendering",
+              "ssg",
+              "static",
+              "static-site-generator",
+              "universal",
+              "vercel"
+            ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1107,12 +1887,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.",
+            "homepage": "https://strapi.io",
             "id": 43441403,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T15:40:12Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T21:44:41Z",
+            "open_issues": 545,
             "owner": "strapi",
             "repo": "strapi",
-            "stars": 73031
+            "stars": 73032,
+            "topics": [
+              "api",
+              "cms",
+              "cms-framework",
+              "content-management",
+              "content-management-system",
+              "customizable",
+              "dashboard",
+              "graphql",
+              "hacktoberfest",
+              "headless-cms",
+              "jamstack",
+              "javascript",
+              "mysql",
+              "no-code",
+              "nodejs",
+              "posgresql",
+              "rest",
+              "strapi",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1123,12 +1928,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React-based framework with performance, scalability, and security built in.",
+            "homepage": "https://www.gatsbyjs.com",
             "id": 36040894,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T03:41:15Z",
+            "open_issues": 437,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55941
+            "stars": 55941,
+            "topics": [
+              "blog",
+              "compiler",
+              "gatsby",
+              "graphql",
+              "react",
+              "static-site-generator",
+              "web-app"
+            ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1139,12 +1957,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React-based framework with performance, scalability, and security built in.",
+            "homepage": "https://www.gatsbyjs.com",
             "id": 36040894,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T03:41:15Z",
+            "open_issues": 437,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55941
+            "stars": 55941,
+            "topics": [
+              "blog",
+              "compiler",
+              "gatsby",
+              "graphql",
+              "react",
+              "static-site-generator",
+              "web-app"
+            ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1155,12 +1986,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+            "homepage": "https://www.prisma.io",
             "id": 192925833,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T16:43:35Z",
+            "open_issues": 2580,
             "owner": "prisma",
             "repo": "orm",
-            "stars": 47567
+            "stars": 47566,
+            "topics": [
+              "cockroachdb",
+              "database",
+              "javascript",
+              "loggy-core",
+              "loggy-terminal",
+              "mariadb",
+              "mongodb",
+              "mssql",
+              "mysql",
+              "nodejs",
+              "orm",
+              "postgres",
+              "postgresql",
+              "prisma",
+              "prisma-client",
+              "query-builder",
+              "sql-server",
+              "sqlite",
+              "sqlserver",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1171,12 +2028,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.",
+            "homepage": "https://www.getoutline.com",
             "id": 59435364,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T04:49:47Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T02:59:37Z",
+            "open_issues": 82,
             "owner": "outline",
             "repo": "outline",
-            "stars": 40362
+            "stars": 40367,
+            "topics": [
+              "docker",
+              "javascript",
+              "mobx",
+              "nodejs",
+              "react",
+              "slack",
+              "wiki"
+            ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1187,12 +2057,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An online IDE for rapid web development",
+            "homepage": "https://codesandbox.io",
             "id": 77455983,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T13:13:18Z",
+            "open_issues": 613,
             "owner": "codesandbox",
             "repo": "codesandbox-client",
-            "stars": 13638
+            "stars": 13638,
+            "topics": [
+              "angular",
+              "codesandbox",
+              "javascript",
+              "preact",
+              "react",
+              "svelte",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1203,12 +2086,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Simple, powerful online communities.",
+            "homepage": "https://spectrum.chat",
             "id": 62260083,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-07-20T03:30:21Z",
+            "open_issues": 288,
             "owner": "withspectrum",
             "repo": "spectrum",
-            "stars": 10833
+            "stars": 10833,
+            "topics": [
+              "expo",
+              "flowtype",
+              "graphql",
+              "nodejs",
+              "react",
+              "reactjs",
+              "rethinkdb",
+              "styled-components"
+            ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1219,12 +2116,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cosine gradient generator & Palette finder",
+            "homepage": "https://grabient.com",
             "id": 90497456,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-20T18:42:58Z",
+            "open_issues": 4,
             "owner": "johnkorzhuk",
             "repo": "grabient",
-            "stars": 2013
+            "stars": 2013,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1235,12 +2137,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React components of open-source Orbit design system by Kiwi.com",
+            "homepage": "https://orbit.kiwi",
             "id": 121522380,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-06T12:56:45Z",
+            "open_issues": 49,
             "owner": "kiwicom",
             "repo": "orbit",
-            "stars": 1438
+            "stars": 1438,
+            "topics": [
+              "component",
+              "component-library",
+              "design-system",
+              "hacktoberfest",
+              "kiwi",
+              "kiwicom",
+              "orbit",
+              "react",
+              "styled-components"
+            ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1251,12 +2168,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "njt (npm jump to): a quick navigation tool for npm packages",
+            "homepage": "https://njt.vercel.app",
             "id": 226175035,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T02:03:45Z",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-29T00:53:41Z",
+            "open_issues": 7,
             "owner": "kachkaev",
             "repo": "njt",
-            "stars": 318
+            "stars": 318,
+            "topics": [
+              "frog",
+              "jump",
+              "meta",
+              "njt",
+              "npm",
+              "npmjs",
+              "productivity",
+              "search",
+              "search-engine",
+              "shortcuts",
+              "vercel",
+              "vercel-deployment"
+            ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1267,12 +2202,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚩 The fourth iteration of the Hack Club site!",
+            "homepage": "https://hackclub.com",
             "id": 258075566,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T17:12:13Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-28T17:45:34Z",
+            "open_issues": 1,
             "owner": "hackclub",
             "repo": "site",
-            "stars": 280
+            "stars": 279,
+            "topics": [
+              "hackclub",
+              "nextjs"
+            ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1283,12 +2226,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web app constructor based on React, with GraphQL bindings",
+            "homepage": "https://booben.io",
             "id": 137101649,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2019-01-09T17:54:33Z",
+            "open_issues": 89,
             "owner": "bcrumbs",
             "repo": "booben",
-            "stars": 106
+            "stars": 106,
+            "topics": [
+              "apollographql",
+              "construction",
+              "generator",
+              "graphql",
+              "lowcode",
+              "nocode",
+              "platform",
+              "prototype",
+              "react",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1299,12 +2258,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Nulogy Design System ",
+            "homepage": "http://nulogy.design",
             "id": 137131881,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T14:05:20Z",
+            "open_issues": 21,
             "owner": "nulogy",
             "repo": "design-system",
-            "stars": 65
+            "stars": 65,
+            "topics": [
+              "css",
+              "design-system",
+              "javascript",
+              "react",
+              "styled-components",
+              "styleguide",
+              "tokens"
+            ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1315,12 +2287,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📝 Chrome extension to generate fake content easily.",
+            "homepage": "http://tabipsum.com",
             "id": 133189920,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-11-21T16:59:20Z",
+            "open_issues": 0,
             "owner": "edkf",
             "repo": "tabipsum",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1331,12 +2308,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight timer to time your work task",
+            "homepage": null,
             "id": 95770080,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-04-08T21:10:51Z",
+            "open_issues": 7,
             "owner": "Nargonath",
             "repo": "getshitdone",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "create-react-app",
+              "reactjs",
+              "styled-components"
+            ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1347,12 +2333,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rick and Morty information App",
+            "homepage": "https://ricknmorty.herokuapp.com",
             "id": 127527838,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-01-15T11:55:25Z",
+            "open_issues": 1,
             "owner": "Bamii",
             "repo": "rick-morty-app",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1363,12 +2354,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My personal website",
+            "homepage": null,
             "id": 78586643,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-08-20T06:23:16Z",
+            "open_issues": 7,
             "owner": "dirtyredz",
             "repo": "dirtyredz.com",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "development",
+              "production",
+              "react",
+              "server",
+              "universal"
+            ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1379,12 +2381,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An example website built with React and tons of other great stuff",
+            "homepage": null,
             "id": 92206482,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-09-11T12:12:27Z",
+            "open_issues": 0,
             "owner": "IamJoseph",
             "repo": "JoesReactWebsite",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "es6",
+              "example-project",
+              "jsx",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1395,12 +2407,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "evenchange4.github.io/michaelhsu.tw 👉",
+            "homepage": "https://michaelhsu.tw/",
             "id": 89333915,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-24T21:11:52Z",
+            "open_issues": 18,
             "owner": "evenchange4",
             "repo": "michaelhsu.tw",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "create-react-app",
+              "react",
+              "styled-components"
+            ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1411,12 +2432,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Space Experience - Astronomy Picture of the Day",
+            "homepage": "https://spaceexperience.club",
             "id": 77453350,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-04-09T10:00:10Z",
+            "open_issues": 0,
             "owner": "caspg",
             "repo": "space-exp",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1427,12 +2453,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Responsive marketing website powered by React, Redux, Firebase and Styled-Components.",
+            "homepage": "https://roses-daycare.firebaseapp.com/",
             "id": 87569839,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-12-09T03:40:51Z",
+            "open_issues": 41,
             "owner": "anthony2025",
             "repo": "roses-daycare",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "create-react-app",
+              "firebase",
+              "react",
+              "reactjs",
+              "redux",
+              "styled-components"
+            ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         }
@@ -1449,12 +2487,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":zap: RAN! React . GraphQL . Next.js Toolkit :zap: - SEO-Ready, Production-Ready, SSR, Hot-Reload, CSS-in-JS, Caching, CLI commands and more...",
+            "homepage": null,
             "id": 95121376,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-02-14T16:17:37Z",
+            "open_issues": 89,
             "owner": "Sly777",
             "repo": "ran",
-            "stars": 2209
+            "stars": 2209,
+            "topics": [
+              "apollo",
+              "boilerplate",
+              "graphql",
+              "nextjs",
+              "nodejs",
+              "react",
+              "redux",
+              "rng",
+              "seo-ready",
+              "styled-components",
+              "toolkit",
+              "zeit"
+            ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1465,12 +2521,30 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This package has moved and renamed",
+            "homepage": "https://rebassjs.org/reflexbox",
             "id": 70867540,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-08-06T15:51:01Z",
+            "open_issues": 0,
             "owner": "rebassjs",
             "repo": "grid",
-            "stars": 2025
+            "stars": 2025,
+            "topics": [
+              "css",
+              "css-in-js",
+              "emotion",
+              "flexbox",
+              "grid",
+              "layout",
+              "margin",
+              "padding",
+              "react",
+              "responsive",
+              "styled-components",
+              "styled-system"
+            ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1481,12 +2555,38 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Universal React+GraphQL starter kit: React 16, Apollo 2, MobX, Emotion, Webpack 4, GraphQL Code Generator, React Router 4, PostCSS, SSR",
+            "homepage": "https://reactql.org",
             "id": 81242375,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-10-31T13:06:55Z",
+            "open_issues": 41,
             "owner": "leebenson",
             "repo": "reactql",
-            "stars": 1810
+            "stars": 1810,
+            "topics": [
+              "apollo",
+              "apollo-client",
+              "brotli",
+              "emotion",
+              "graphql",
+              "gzip",
+              "helmet",
+              "hot-reload",
+              "less",
+              "postcss",
+              "react",
+              "reactjs",
+              "sass",
+              "server-side-rendering",
+              "ssr",
+              "starter-kit",
+              "typescript",
+              "universal",
+              "webpack",
+              "webpack4"
+            ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1497,12 +2597,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💅💍  Better media queries for styled-component",
+            "homepage": null,
             "id": 96666033,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-07T04:06:33Z",
+            "open_issues": 22,
             "owner": "morajabi",
             "repo": "styled-media-query",
-            "stars": 1308
+            "stars": 1308,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1513,12 +2618,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Defines themes via flexible color selectors for use with styled-components",
+            "homepage": null,
             "id": 73746965,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-12-10T17:13:50Z",
+            "open_issues": 7,
             "owner": "erikras",
             "repo": "styled-components-theme",
-            "stars": 306
+            "stars": 306,
+            "topics": [
+              "color-manipulation",
+              "css",
+              "javascript",
+              "js",
+              "manipulation-methods",
+              "react",
+              "sass",
+              "scss",
+              "selector",
+              "styled-components",
+              "styles",
+              "styling",
+              "theme-color",
+              "themes"
+            ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1529,12 +2654,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source components library built with React and Styled-Components.",
+            "homepage": "https://reactackle.braincrumbs.io",
             "id": 94462223,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-10T14:50:31Z",
+            "open_issues": 77,
             "owner": "bcrumbs",
             "repo": "reactackle",
-            "stars": 278
+            "stars": 278,
+            "topics": [
+              "components",
+              "css-in-js",
+              "javascript",
+              "react",
+              "react-components",
+              "reactackle",
+              "styled-components",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1545,12 +2684,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CSShake as a React Functional Component",
+            "homepage": "https://elrumordelaluz.github.io/reshake/",
             "id": 69822997,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-07-10T07:52:50Z",
+            "open_issues": 11,
             "owner": "elrumordelaluz",
             "repo": "reshake",
-            "stars": 277
+            "stars": 277,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1561,12 +2705,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Simple lib that allows you to set styled props in your styled-components without stress. ",
+            "homepage": "https://github.com/RafalFilipek/styled-props",
             "id": 78516887,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-08-13T19:53:54Z",
+            "open_issues": 16,
             "owner": "RafalFilipek",
             "repo": "styled-props",
-            "stars": 241
+            "stars": 241,
+            "topics": [
+              "css-in-js",
+              "react",
+              "styled-components",
+              "styled-props"
+            ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1577,12 +2731,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Utility function for using breakpoints with styled-components 💅.",
+            "homepage": null,
             "id": 81250504,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-10-12T15:33:13Z",
+            "open_issues": 14,
             "owner": "jameslnewell",
             "repo": "styled-components-breakpoint",
-            "stars": 238
+            "stars": 238,
+            "topics": [
+              "breakpoint",
+              "breakpoints",
+              "media",
+              "react",
+              "styled-components"
+            ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1593,12 +2758,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🖼  Medium style progressive background image.",
+            "homepage": "https://react-progressive-bg-image.netlify.com/",
             "id": 89999693,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-24T16:00:17Z",
+            "open_issues": 25,
             "owner": "evenchange4",
             "repo": "react-progressive-bg-image",
-            "stars": 228
+            "stars": 228,
+            "topics": [
+              "progressive-image",
+              "react",
+              "styled-components"
+            ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1609,12 +2783,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A responsive grid components for styled-components.",
+            "homepage": null,
             "id": 81254679,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-07-15T07:47:38Z",
+            "open_issues": 27,
             "owner": "jameslnewell",
             "repo": "styled-components-grid",
-            "stars": 219
+            "stars": 219,
+            "topics": [
+              "grid",
+              "react",
+              "responsive-grid",
+              "styled-components"
+            ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1625,12 +2809,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":pen: a Draft.js editor",
+            "homepage": null,
             "id": 75240156,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-03-08T11:30:16Z",
+            "open_issues": 9,
             "owner": "ld-x",
             "repo": "last-draft",
-            "stars": 218
+            "stars": 218,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1641,12 +2830,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Responsive margin and padding components for styled-components 💅.",
+            "homepage": null,
             "id": 82987990,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-12-09T16:55:00Z",
+            "open_issues": 22,
             "owner": "jameslnewell",
             "repo": "styled-components-spacing",
-            "stars": 210
+            "stars": 210,
+            "topics": [
+              "margin",
+              "mixins",
+              "padding",
+              "react",
+              "space",
+              "styled-components",
+              "whitespace"
+            ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1657,12 +2859,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flex Element for not writing any more custom flex styles because fuck that",
+            "homepage": "https://www.npmjs.com/styled-flex-component",
             "id": 113049452,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-06-21T20:17:51Z",
+            "open_issues": 8,
             "owner": "SaraVieira",
             "repo": "styled-flex-component",
-            "stars": 209
+            "stars": 209,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1673,12 +2880,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A flag utility for styled-components",
+            "homepage": null,
             "id": 103938090,
             "language": "JavaScript",
+            "license": "MPL-2.0",
             "last_commit": "2023-01-06T01:41:05Z",
+            "open_issues": 16,
             "owner": "yldio",
             "repo": "styled-is",
-            "stars": 209
+            "stars": 209,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1689,12 +2901,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Loaders Built with Preact and Styled Components",
+            "homepage": "https://styled-loaders.now.sh/",
             "id": 99621228,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2020-10-02T11:19:26Z",
+            "open_issues": 2,
             "owner": "SaraVieira",
             "repo": "styled-loaders",
-            "stars": 207
+            "stars": 207,
+            "topics": [
+              "javascript",
+              "preact",
+              "styled-components"
+            ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1705,12 +2926,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extensible theming system for styled-components 💅",
+            "homepage": "https://diegohaz.github.io/styled-theme",
             "id": 78586709,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-12-02T00:06:28Z",
+            "open_issues": 8,
             "owner": "diegohaz",
             "repo": "styled-theme",
-            "stars": 181
+            "stars": 181,
+            "topics": [
+              "css-in-js",
+              "font",
+              "palette",
+              "react",
+              "sizes",
+              "styled-components",
+              "theme"
+            ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1721,12 +2955,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This project is No Longer Maintained.  React implementation of AdminLTE themed dashboard",
+            "homepage": "http://zksailor534.github.io/react-adminlte-dash/",
             "id": 57971281,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-11-05T03:30:06Z",
+            "open_issues": 11,
             "owner": "zksailor534",
             "repo": "react-adminlte-dash",
-            "stars": 167
+            "stars": 167,
+            "topics": [
+              "adminlte",
+              "dashboard",
+              "react",
+              "sidebar",
+              "styled-components"
+            ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1737,12 +2982,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💅🏻 A styled-component implementation of Bootstrap",
+            "homepage": "https://xdae.github.io/styled-bootstrap/",
             "id": 91970364,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-04-01T07:16:06Z",
+            "open_issues": 3,
             "owner": "xDae",
             "repo": "styled-bootstrap",
-            "stars": 155
+            "stars": 155,
+            "topics": [
+              "bootstrap",
+              "css-in-js",
+              "react",
+              "react-components",
+              "reactjs",
+              "styled-components",
+              "styleguide",
+              "ui-components",
+              "uikit"
+            ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1753,12 +3013,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress and the added benefits of TypeScript 💅",
+            "homepage": null,
             "id": 103740178,
             "language": "JavaScript",
+            "license": "WTFPL",
             "last_commit": "2018-11-29T19:49:05Z",
+            "open_issues": 1,
             "owner": "jacob-ebey",
             "repo": "styled-components-ts",
-            "stars": 151
+            "stars": 151,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1769,12 +3034,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "react boilerplate used best practices and focus on performance",
+            "homepage": null,
             "id": 83924885,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-03-30T20:35:52Z",
+            "open_issues": 2,
             "owner": "krasevych",
             "repo": "react-redux-styled-hot-universal",
-            "stars": 146
+            "stars": 146,
+            "topics": [
+              "boilerplate",
+              "es6",
+              "immutablejs",
+              "isomorphic",
+              "javascript",
+              "react",
+              "react-router",
+              "readux-",
+              "redux",
+              "starter-kit",
+              "styled-components",
+              "universal",
+              "webpack",
+              "webpack2",
+              "yarn"
+            ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1785,12 +3071,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React Animated Styled Components",
+            "homepage": "https://www.npmjs.com/package/animated-styled-components",
             "id": 101640557,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-12-03T03:18:56Z",
+            "open_issues": 5,
             "owner": "alexvcasillas",
             "repo": "animated-styled-components",
-            "stars": 137
+            "stars": 137,
+            "topics": [
+              "animated",
+              "animation",
+              "react",
+              "styled-components"
+            ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1801,12 +3097,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple and powerful lib to handle styled props in your components",
+            "homepage": "https://codesandbox.io/s/ElvL8EKgg",
             "id": 99022390,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-06-19T19:23:07Z",
+            "open_issues": 1,
             "owner": "brunobertolini",
             "repo": "styled-by",
-            "stars": 136
+            "stars": 136,
+            "topics": [
+              "css",
+              "css-in-js",
+              "hacktoberfest",
+              "props",
+              "react",
+              "react-native",
+              "styled-components",
+              "styles"
+            ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1817,12 +3127,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The best react form component, on earth :earth_africa: ",
+            "homepage": null,
             "id": 64830019,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-01-04T15:50:03Z",
+            "open_issues": 2,
             "owner": "fulll",
             "repo": "react-enhanced-form",
-            "stars": 133
+            "stars": 133,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1833,12 +3148,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Razzle Material-UI example with Styled Components using Express with compression",
+            "homepage": "https://hackernoon.com/material-ui-get-started-fast-react-16-eea211d65308",
             "id": 91129456,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-02-16T11:10:26Z",
+            "open_issues": 16,
             "owner": "kireerik",
             "repo": "razzle-material-ui-styled-example",
-            "stars": 114
+            "stars": 114,
+            "topics": [
+              "boilerplate",
+              "compression",
+              "example",
+              "example-project",
+              "express",
+              "isomorphic",
+              "material-ui",
+              "razzle",
+              "react",
+              "react-dom",
+              "server-side-rendering",
+              "ssr",
+              "styled-components",
+              "template",
+              "universal",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1849,12 +3186,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Grid library for React; Rescue the cat",
+            "homepage": "https://josephrexme.github.io/griz/",
             "id": 97094341,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-08-16T18:58:10Z",
+            "open_issues": 0,
             "owner": "josephrexme",
             "repo": "griz",
-            "stars": 103
+            "stars": 103,
+            "topics": [
+              "flexbox",
+              "grid",
+              "grid-system",
+              "react",
+              "styled-components"
+            ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1865,12 +3213,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Teleport your components to the foreground",
+            "homepage": null,
             "id": 71565783,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-01-04T15:51:07Z",
+            "open_issues": 0,
             "owner": "fulll",
             "repo": "react-teleportation",
-            "stars": 96
+            "stars": 96,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1881,12 +3234,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React Rasta is a powerful and flexible grid system for React",
+            "homepage": "https://react-rasta.com",
             "id": 125354774,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-12-08T17:18:21Z",
+            "open_issues": 24,
             "owner": "ChilliCream",
             "repo": "react-rasta",
-            "stars": 90
+            "stars": 90,
+            "topics": [
+              "grid",
+              "grid-framework",
+              "grid-layout",
+              "grid-system",
+              "react",
+              "styled-components"
+            ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1897,12 +3262,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Provides convenient props shortcut helper for Styled Components 💅",
+            "homepage": null,
             "id": 96937240,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-05-14T16:50:22Z",
+            "open_issues": 3,
             "owner": "donavon",
             "repo": "styled-shortcuts",
-            "stars": 88
+            "stars": 88,
+            "topics": [
+              "styled-components"
+            ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1913,12 +3285,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Responsive JSX layouts with Styled Components",
+            "homepage": "https://moarwick.github.io/react-super-styled/",
             "id": 109866820,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-12-02T01:01:36Z",
+            "open_issues": 0,
             "owner": "moarwick",
             "repo": "react-super-styled",
-            "stars": 80
+            "stars": 80,
+            "topics": [
+              "css",
+              "grid",
+              "layout",
+              "library",
+              "react",
+              "react-component",
+              "responsive",
+              "styled-components"
+            ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1929,12 +3315,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎛  MCS Lite Common UI and Websites. ",
+            "homepage": "https://mcslite.netlify.com",
             "id": 79562762,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T17:59:10Z",
+            "open_issues": 49,
             "owner": "MCS-Lite",
             "repo": "mcs-lite",
-            "stars": 75
+            "stars": 75,
+            "topics": [
+              "create-react-app",
+              "mcs",
+              "mcs-lite",
+              "mediatek",
+              "mediatek-linkit",
+              "react",
+              "styled-components"
+            ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1945,12 +3344,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Inline style props for emotion and styled-components",
+            "homepage": null,
             "id": 134202337,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-12-14T21:42:51Z",
+            "open_issues": 1,
             "owner": "gragland",
             "repo": "subatomic",
-            "stars": 61
+            "stars": 61,
+            "topics": [
+              "css-in-js",
+              "design-systems",
+              "emotion",
+              "inline-styles",
+              "react",
+              "styled-components"
+            ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1961,12 +3372,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use Container Queries [Element Queries] with styled-components",
+            "homepage": "https://freddyfy.github.io/styled-container-query/",
             "id": 150069176,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-10T11:18:28Z",
+            "open_issues": 13,
             "owner": "FreddyFY",
             "repo": "styled-container-query",
-            "stars": 52
+            "stars": 52,
+            "topics": [
+              "container-query",
+              "element-query",
+              "react",
+              "styled-components"
+            ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1977,12 +3398,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "normalize.css with a styled-components mindset",
+            "homepage": null,
             "id": 103937927,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-12-10T01:33:50Z",
+            "open_issues": 20,
             "owner": "yldio",
             "repo": "normalized-styled-components",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -1993,12 +3419,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Test utils for styled-components compatible with jest, expect, chai and jasmine",
+            "homepage": null,
             "id": 96441524,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-08-27T21:30:32Z",
+            "open_issues": 4,
             "owner": "mbasso",
             "repo": "styled-components-test-utils",
-            "stars": 47
+            "stars": 47,
+            "topics": [
+              "chai",
+              "css",
+              "expect",
+              "jasmine",
+              "jest",
+              "react",
+              "styled-components",
+              "test"
+            ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -2009,12 +3449,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Styled component  that speedup prototyping layouts with ready flex powered Box.",
+            "homepage": null,
             "id": 100579451,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-11-18T15:08:47Z",
+            "open_issues": 0,
             "owner": "Monar",
             "repo": "react-styled-box",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -2025,12 +3470,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Flexbox React component harnessing the power of styled-components",
+            "homepage": null,
             "id": 97969035,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-09-07T17:34:49Z",
+            "open_issues": 0,
             "owner": "snikas",
             "repo": "react-styled-flexbox",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "flex",
+              "flexbox",
+              "react",
+              "styled-components"
+            ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -2041,12 +3496,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A beautiful fully customizable React + Redux notification system built with styled-components",
+            "homepage": "https://goo.gl/UYNQEh",
             "id": 155194334,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2018-12-24T19:24:07Z",
+            "open_issues": 0,
             "owner": "zakariaharti",
             "repo": "react-awesome-notifications",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "notification",
+              "notification-component",
+              "notifications",
+              "react",
+              "redux",
+              "storybook",
+              "styled-components",
+              "ui-components"
+            ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -2057,12 +3526,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎠 A super media-query for styled-components. Intuitive and easy of use.",
+            "homepage": "https://themgoncalves.github.io/super-query/",
             "id": 136728239,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-09T17:13:32Z",
+            "open_issues": 22,
             "owner": "themgoncalves",
             "repo": "super-query",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "css-in-js",
+              "device-orientation",
+              "media-query",
+              "react",
+              "responsive",
+              "styled-components"
+            ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -2073,12 +3554,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Tiny utility function for styled-components helps to override 3rd parties components with custom className props for their deep nested children or different states",
+            "homepage": null,
             "id": 107897737,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-12-31T16:27:08Z",
+            "open_issues": 2,
             "owner": "RIP21",
             "repo": "with-styled-class-names",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "css-in-js",
+              "javascript",
+              "styled-components",
+              "utils"
+            ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -2089,12 +3580,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Present your application colors with style.",
+            "homepage": null,
             "id": 80430883,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-05-05T20:04:11Z",
+            "open_issues": 2,
             "owner": "RafalFilipek",
             "repo": "colors-show",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "colors",
+              "css-in-js",
+              "storybook",
+              "styleguide"
+            ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -2105,12 +3606,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Everything needed to make your react application responsive",
+            "homepage": null,
             "id": 121045593,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-05-07T19:52:16Z",
+            "open_issues": 1,
             "owner": "arovillard",
             "repo": "styled-grid-responsive",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -2121,12 +3627,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Grid Element for not writing any more custom grid styles because foda-se!",
+            "homepage": "https://www.npmjs.com/package/styled-grid-component",
             "id": 127434461,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-09-30T11:53:47Z",
+            "open_issues": 1,
             "owner": "Fausto95",
             "repo": "styled-grid-component",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -2137,12 +3648,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "styled-components theme property accessor",
+            "homepage": null,
             "id": 79879099,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-03-13T01:24:24Z",
+            "open_issues": 0,
             "owner": "Lokua",
             "repo": "styled-ax",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -2153,12 +3669,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A design system template for the SugUI components library based on styleguidist",
+            "homepage": "https://gazpachu.github.io/sugui-design-system/",
             "id": 168160262,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-02-05T12:17:58Z",
+            "open_issues": 0,
             "owner": "gazpachu",
             "repo": "sugui-design-system",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "design-system",
+              "react",
+              "styled-components",
+              "styleguide",
+              "styleguidist",
+              "ui",
+              "ui-components",
+              "ui-kit"
+            ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -2169,12 +3699,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create a `react` component from a `tag` prop.",
+            "homepage": null,
             "id": 89637032,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-07-23T16:48:45Z",
+            "open_issues": 0,
             "owner": "jameslnewell",
             "repo": "react-create-component-from-tag-prop",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "component",
+              "is",
+              "react",
+              "styled-components",
+              "tag"
+            ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         },
@@ -2185,12 +3726,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A convenience package that wraps styled-components with styled-shortcuts.",
+            "homepage": null,
             "id": 97614709,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-01-18T15:12:58Z",
+            "open_issues": 1,
             "owner": "donavon",
             "repo": "styled-shortcut-components",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "styled-components",
+              "styled-shortcuts"
+            ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
         }
@@ -2199,15 +3748,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:43:45.833Z",
+    "last_updated": "2026-08-29T04:19:53.152Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome styled-components resources 💅 ",
+      "homepage": null,
       "id": 89063440,
       "language": null,
+      "license": null,
       "last_commit": "2023-05-19T07:07:41Z",
+      "open_issues": 7,
       "owner": "styled-components",
       "repo": "awesome-styled-components",
-      "stars": 3464
+      "stars": 3464,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "css",
+        "css-in-js",
+        "react",
+        "styled-components"
+      ]
     },
     "original_repository_sha": "2502b4904c6f9eba0eb4df9ba4a0fcc68dea8297",
     "enhanced_repository": "enhansome/enhansome-styled-components",
