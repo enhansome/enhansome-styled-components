@@ -17,11 +17,11 @@
                 "id": 104133653,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-08-31T11:10:57Z",
-                "open_issues": 42,
+                "last_commit": "2026-09-01T10:29:48Z",
+                "open_issues": 46,
                 "owner": "ariakit",
                 "repo": "ariakit",
-                "stars": 8607,
+                "stars": 8608,
                 "topics": [
                   "a11y",
                   "accessibility",
@@ -92,7 +92,7 @@
                 "open_issues": 45,
                 "owner": "react95-io",
                 "repo": "React95",
-                "stars": 7262,
+                "stars": 7264,
                 "topics": [
                   "component-library",
                   "components",
@@ -164,7 +164,7 @@
                 "open_issues": 9,
                 "owner": "jbetancur",
                 "repo": "react-data-table-component",
-                "stars": 2231,
+                "stars": 2230,
                 "topics": [
                   "react",
                   "react-components",
@@ -1856,11 +1856,11 @@
             "id": 70107786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-31T11:41:44Z",
-            "open_issues": 3571,
+            "last_commit": "2026-09-01T10:24:48Z",
+            "open_issues": 3536,
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 142036,
+            "stars": 142053,
             "topics": [
               "blog",
               "browser",
@@ -1892,11 +1892,11 @@
             "id": 43441403,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-31T11:38:21Z",
-            "open_issues": 552,
+            "last_commit": "2026-09-01T10:21:23Z",
+            "open_issues": 548,
             "owner": "strapi",
             "repo": "strapi",
-            "stars": 73048,
+            "stars": 73051,
             "topics": [
               "api",
               "cms",
@@ -1937,7 +1937,7 @@
             "open_issues": 438,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55944,
+            "stars": 55943,
             "topics": [
               "blog",
               "compiler",
@@ -1966,7 +1966,7 @@
             "open_issues": 438,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55944,
+            "stars": 55943,
             "topics": [
               "blog",
               "compiler",
@@ -1991,11 +1991,11 @@
             "id": 192925833,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T11:50:15Z",
-            "open_issues": 2583,
+            "last_commit": "2026-09-01T10:26:27Z",
+            "open_issues": 2588,
             "owner": "prisma",
             "repo": "orm",
-            "stars": 47578,
+            "stars": 47585,
             "topics": [
               "cockroachdb",
               "database",
@@ -2033,11 +2033,11 @@
             "id": 59435364,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T23:49:30Z",
-            "open_issues": 84,
+            "last_commit": "2026-09-01T07:31:33Z",
+            "open_issues": 89,
             "owner": "outline",
             "repo": "outline",
-            "stars": 40389,
+            "stars": 40401,
             "topics": [
               "docker",
               "javascript",
@@ -2066,7 +2066,7 @@
             "open_issues": 613,
             "owner": "codesandbox",
             "repo": "codesandbox-client",
-            "stars": 13639,
+            "stars": 13638,
             "topics": [
               "angular",
               "codesandbox",
@@ -2207,14 +2207,15 @@
             "id": 258075566,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-31T01:07:00Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-01T01:55:54Z",
+            "open_issues": 2,
             "owner": "hackclub",
             "repo": "site",
             "stars": 279,
             "topics": [
               "hackclub",
-              "nextjs"
+              "nextjs",
+              "nonprofit"
             ]
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
@@ -3748,7 +3749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T11:52:48.119Z",
+    "last_updated": "2026-09-01T10:32:26.706Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome styled-components resources 💅 ",
