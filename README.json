@@ -1856,11 +1856,11 @@
             "id": 70107786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T04:40:43Z",
+            "last_commit": "2026-10-03T08:55:37Z",
             "open_issues": 3532,
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 143020,
+            "stars": 143035,
             "topics": [
               "blog",
               "browser",
@@ -1893,10 +1893,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T16:10:30Z",
-            "open_issues": 576,
+            "open_issues": 577,
             "owner": "strapi",
             "repo": "strapi",
-            "stars": 73272,
+            "stars": 73274,
             "topics": [
               "api",
               "cms",
@@ -1937,7 +1937,7 @@
             "open_issues": 451,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55941,
+            "stars": 55943,
             "topics": [
               "blog",
               "compiler",
@@ -1966,7 +1966,7 @@
             "open_issues": 451,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55941,
+            "stars": 55943,
             "topics": [
               "blog",
               "compiler",
@@ -1995,7 +1995,7 @@
             "open_issues": 2747,
             "owner": "prisma",
             "repo": "orm",
-            "stars": 47688,
+            "stars": 47689,
             "topics": [
               "cockroachdb",
               "database",
@@ -2034,7 +2034,7 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-10-03T02:05:40Z",
-            "open_issues": 82,
+            "open_issues": 83,
             "owner": "outline",
             "repo": "outline",
             "stars": 40789,
@@ -2173,7 +2173,7 @@
             "id": 226175035,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-03T04:56:48Z",
+            "last_commit": "2026-10-03T09:51:48Z",
             "open_issues": 5,
             "owner": "kachkaev",
             "repo": "njt",
@@ -3749,7 +3749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:08:57.374Z",
+    "last_updated": "2026-10-03T10:40:37.129Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome styled-components resources 💅 ",
