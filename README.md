@@ -133,12 +133,12 @@
 
 ### Real Apps
 
-* [en.kachkaev.ru](https://en.kachkaev.ru) - Personal homepage built with [next.js](https://github.com/zeit/next.js) ⭐ 143,219 | 🐛 3,524 | 🌐 JavaScript | 📅 2026-10-06; also uses GraphQL, Docker, CI and microservice architecture ([source on GitLab](https://gitlab.com/kachkaev/website)).
-* [Strapi Admin Panel](https://github.com/strapi/strapi/tree/master/packages/strapi-admin) ⭐ 73,284 | 🐛 575 | 🌐 TypeScript | 📅 2026-10-06 - Strapi built-in admin panel to build content APIs.
+* [en.kachkaev.ru](https://en.kachkaev.ru) - Personal homepage built with [next.js](https://github.com/zeit/next.js) ⭐ 143,226 | 🐛 3,527 | 🌐 JavaScript | 📅 2026-10-06; also uses GraphQL, Docker, CI and microservice architecture ([source on GitLab](https://gitlab.com/kachkaev/website)).
+* [Strapi Admin Panel](https://github.com/strapi/strapi/tree/master/packages/strapi-admin) ⭐ 73,284 | 🐛 576 | 🌐 TypeScript | 📅 2026-10-06 - Strapi built-in admin panel to build content APIs.
 * [Reactiflux](https://www.reactiflux.com) - Reactiflux community home build with [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,944 | 🐛 453 | 🌐 JavaScript | 📅 2026-10-05 ([source](https://github.com/reactiflux/reactiflux.com) ⭐ 275 | 🐛 25 | 🌐 TypeScript | 📅 2026-10-03).
 * [sachagreif.com](http://sachagreif.com) - Personal homepage built with [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,944 | 🐛 453 | 🌐 JavaScript | 📅 2026-10-05 ([source](https://github.com/SachaG/sg2017) ⭐ 24 | 🐛 28 | 🌐 JavaScript | 📅 2023-01-04).
-* [Prisma](https://www.prisma.io/) - Open-Source GraphQL ORM for GraphQL Servers ([source](https://github.com/prisma/prisma) ⭐ 47,700 | 🐛 2,762 | 🌐 TypeScript | 📅 2026-10-06).
-* [Outline](https://www.getoutline.com) - Wiki for your team ([source](https://github.com/outline/outline) ⭐ 40,824 | 🐛 86 | 🌐 TypeScript | 📅 2026-10-06)
+* [Prisma](https://www.prisma.io/) - Open-Source GraphQL ORM for GraphQL Servers ([source](https://github.com/prisma/prisma) ⭐ 47,700 | 🐛 2,759 | 🌐 TypeScript | 📅 2026-10-06).
+* [Outline](https://www.getoutline.com) - Wiki for your team ([source](https://github.com/outline/outline) ⭐ 40,825 | 🐛 85 | 🌐 TypeScript | 📅 2026-10-06)
 * [CodeSandbox](https://codesandbox.io/s/new) - An online editor tailored for React development ([source](https://github.com/CompuIves/codesandbox-client) ⭐ 13,651 | 🐛 614 | 🌐 JavaScript | 📅 2026-09-07).
 * [Spectrum](https://spectrum.chat/) - The community platform for the future ([source](https://github.com/withspectrum/spectrum) ⚠️ Archived).
 * [Grabient.com](https://www.grabient.com) - A beautiful and simple UI for generating web gradients. ([source](https://github.com/johnkorzhuk/grabient/) ⭐ 2,013 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-20).
