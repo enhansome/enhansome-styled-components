@@ -34,7 +34,7 @@
 #### General Resources
 
 * [Official Site](https://www.styled-components.com/)
-* [GitHub](https://github.com/styled-components/styled-components) ⭐ 41,096 | 🐛 24 | 🌐 TypeScript | 📅 2026-09-28
+* [GitHub](https://github.com/styled-components/styled-components) ⭐ 41,094 | 🐛 20 | 🌐 TypeScript | 📅 2026-09-28
 
 #### Community
 
@@ -47,11 +47,11 @@
 
 #### Components
 
-* [ReaKit](https://github.com/diegohaz/reakit) ⭐ 8,623 | 🐛 50 | 🌐 TypeScript | 📅 2026-10-06 - Toolkit for building interactive UIs.
+* [ReaKit](https://github.com/diegohaz/reakit) ⭐ 8,624 | 🐛 64 | 🌐 TypeScript | 📅 2026-10-07 - Toolkit for building interactive UIs.
 * [Rebass](https://github.com/jxnblk/rebass) ⭐ 7,893 | 🐛 97 | 🌐 JavaScript | 📅 2023-07-27 - Functional React UI component library.
-* [React95](https://github.com/arturbien/React95) ⭐ 7,274 | 🐛 45 | 🌐 TypeScript | 📅 2024-01-14 - Windows 95 style UI components.
-* [reactour](https://github.com/elrumordelaluz/reactour) ⭐ 4,087 | 🐛 82 | 🌐 TypeScript | 📅 2026-05-19 - Tourist Guide into your Components.
-* [react-data-table-component](https://github.com/jbetancur/react-data-table-component) ⭐ 2,231 | 🐛 12 | 🌐 TypeScript | 📅 2026-09-29 - Data Table with built in sorting, pagination, selection, expandable rows and customizable styling.
+* [React95](https://github.com/arturbien/React95) ⭐ 7,273 | 🐛 45 | 🌐 TypeScript | 📅 2024-01-14 - Windows 95 style UI components.
+* [reactour](https://github.com/elrumordelaluz/reactour) ⭐ 4,088 | 🐛 82 | 🌐 TypeScript | 📅 2026-05-19 - Tourist Guide into your Components.
+* [react-data-table-component](https://github.com/jbetancur/react-data-table-component) ⭐ 2,233 | 🐛 12 | 🌐 TypeScript | 📅 2026-09-29 - Data Table with built in sorting, pagination, selection, expandable rows and customizable styling.
 * [styled-icons](https://github.com/jacobwgillespie/styled-icons) ⭐ 2,097 | 🐛 20 | 🌐 JavaScript | 📅 2026-08-24 - Icons from popular icon packs (Font Awesome, Material, Octicons, etc).
 * [react-simple-chatbot](https://github.com/LucasBassetti/react-simple-chatbot) ⭐ 1,754 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-27 - Simple chatbot / conversational-ui component.
 * [Smooth UI](https://github.com/smooth-code/smooth-ui) ⚠️ Archived - UI Library / Design System.
@@ -123,8 +123,8 @@
 
 #### Boilerplates
 
-* [react-boilerplate](https://github.com/mxstbr/react-boilerplate) ⭐ 29,471 | 🐛 140 | 🌐 JavaScript | 📅 2023-03-23 - Highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
-* [ARc](https://github.com/diegohaz/arc) ⭐ 2,920 | 🐛 64 | 🌐 JavaScript | 📅 2022-02-12 - Atomic React App boilerplate.
+* [react-boilerplate](https://github.com/mxstbr/react-boilerplate) ⭐ 29,467 | 🐛 140 | 🌐 JavaScript | 📅 2023-03-23 - Highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
+* [ARc](https://github.com/diegohaz/arc) ⭐ 2,919 | 🐛 64 | 🌐 JavaScript | 📅 2022-02-12 - Atomic React App boilerplate.
 * [styled-react-boilerplate](https://github.com/xxczaki/styled-react-boilerplate) ⭐ 209 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-30 - Modern & minimal boilerplate.
 * [Superstylin'](https://github.com/bntzio/gatsby-starter-superstylin) ⭐ 170 | 🐛 52 | 🌐 JavaScript | 📅 2023-01-11 - A Gatsby starter.
 * [Generator create-redux-app](https://github.com/jonidelv/generator-create-redux-app) ⭐ 139 | 🐛 14 | 🌐 JavaScript | 📅 2023-01-06 - Adds Redux and other useful libraries, on top of create-react-app.
@@ -133,17 +133,17 @@
 
 ### Real Apps
 
-* [en.kachkaev.ru](https://en.kachkaev.ru) - Personal homepage built with [next.js](https://github.com/zeit/next.js) ⭐ 143,226 | 🐛 3,527 | 🌐 JavaScript | 📅 2026-10-06; also uses GraphQL, Docker, CI and microservice architecture ([source on GitLab](https://gitlab.com/kachkaev/website)).
-* [Strapi Admin Panel](https://github.com/strapi/strapi/tree/master/packages/strapi-admin) ⭐ 73,284 | 🐛 576 | 🌐 TypeScript | 📅 2026-10-06 - Strapi built-in admin panel to build content APIs.
-* [Reactiflux](https://www.reactiflux.com) - Reactiflux community home build with [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,944 | 🐛 453 | 🌐 JavaScript | 📅 2026-10-05 ([source](https://github.com/reactiflux/reactiflux.com) ⭐ 275 | 🐛 25 | 🌐 TypeScript | 📅 2026-10-03).
-* [sachagreif.com](http://sachagreif.com) - Personal homepage built with [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,944 | 🐛 453 | 🌐 JavaScript | 📅 2026-10-05 ([source](https://github.com/SachaG/sg2017) ⭐ 24 | 🐛 28 | 🌐 JavaScript | 📅 2023-01-04).
-* [Prisma](https://www.prisma.io/) - Open-Source GraphQL ORM for GraphQL Servers ([source](https://github.com/prisma/prisma) ⭐ 47,700 | 🐛 2,759 | 🌐 TypeScript | 📅 2026-10-06).
-* [Outline](https://www.getoutline.com) - Wiki for your team ([source](https://github.com/outline/outline) ⭐ 40,825 | 🐛 85 | 🌐 TypeScript | 📅 2026-10-06)
-* [CodeSandbox](https://codesandbox.io/s/new) - An online editor tailored for React development ([source](https://github.com/CompuIves/codesandbox-client) ⭐ 13,651 | 🐛 614 | 🌐 JavaScript | 📅 2026-09-07).
+* [en.kachkaev.ru](https://en.kachkaev.ru) - Personal homepage built with [next.js](https://github.com/zeit/next.js) ⭐ 143,229 | 🐛 3,540 | 🌐 JavaScript | 📅 2026-10-07; also uses GraphQL, Docker, CI and microservice architecture ([source on GitLab](https://gitlab.com/kachkaev/website)).
+* [Strapi Admin Panel](https://github.com/strapi/strapi/tree/master/packages/strapi-admin) ⭐ 73,288 | 🐛 587 | 🌐 TypeScript | 📅 2026-10-07 - Strapi built-in admin panel to build content APIs.
+* [Reactiflux](https://www.reactiflux.com) - Reactiflux community home build with [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,941 | 🐛 453 | 🌐 JavaScript | 📅 2026-10-05 ([source](https://github.com/reactiflux/reactiflux.com) ⭐ 275 | 🐛 25 | 🌐 TypeScript | 📅 2026-10-03).
+* [sachagreif.com](http://sachagreif.com) - Personal homepage built with [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,941 | 🐛 453 | 🌐 JavaScript | 📅 2026-10-05 ([source](https://github.com/SachaG/sg2017) ⭐ 24 | 🐛 28 | 🌐 JavaScript | 📅 2023-01-04).
+* [Prisma](https://www.prisma.io/) - Open-Source GraphQL ORM for GraphQL Servers ([source](https://github.com/prisma/prisma) ⭐ 47,696 | 🐛 2,756 | 🌐 TypeScript | 📅 2026-10-07).
+* [Outline](https://www.getoutline.com) - Wiki for your team ([source](https://github.com/outline/outline) ⭐ 40,833 | 🐛 84 | 🌐 TypeScript | 📅 2026-10-07)
+* [CodeSandbox](https://codesandbox.io/s/new) - An online editor tailored for React development ([source](https://github.com/CompuIves/codesandbox-client) ⭐ 13,650 | 🐛 614 | 🌐 JavaScript | 📅 2026-09-07).
 * [Spectrum](https://spectrum.chat/) - The community platform for the future ([source](https://github.com/withspectrum/spectrum) ⚠️ Archived).
 * [Grabient.com](https://www.grabient.com) - A beautiful and simple UI for generating web gradients. ([source](https://github.com/johnkorzhuk/grabient/) ⭐ 2,013 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-20).
 * [Orbit Components](https://github.com/kiwicom/orbit-components) ⭐ 1,437 | 🐛 49 | 🌐 TypeScript | 📅 2026-07-06 - Component library of Orbit Design System, built by and for [Kiwi.com](https://www.kiwi.com)
-* [njt.now.sh](https://njt.now.sh) - `njt` (npm jump to) is a tool and a service that provides package navigation shortcuts. It uses Next.js and involves server-side-rendering ([source](https://github.com/kachkaev/njt) ⭐ 317 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-05).
+* [njt.now.sh](https://njt.now.sh) - `njt` (npm jump to) is a tool and a service that provides package navigation shortcuts. It uses Next.js and involves server-side-rendering ([source](https://github.com/kachkaev/njt) ⭐ 318 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-05).
 * [Hack Club](https://hackclub.com) - Website for a global, non-profit community of high school coding clubs ([source](https://github.com/hackclub/site) ⭐ 282 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-04)
 * [Booben](https://github.com/bcrumbs/booben) ⭐ 106 | 🐛 89 | 🌐 JavaScript | 📅 2019-01-09 - Design, develop, connect data, get source code - all in one place.
 * [Nulogy](https://nulogy.com) - Supply chain management software built with open-source [Nulogy Components](https://github.com/nulogy/design-system/tree/master/packages/components) ⭐ 65 | 🐛 20 | 🌐 TypeScript | 📅 2026-10-05.
@@ -298,4 +298,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
