@@ -17,11 +17,11 @@
                 "id": 104133653,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-10-10T09:31:58Z",
+                "last_commit": "2026-10-11T11:36:38Z",
                 "open_issues": 45,
                 "owner": "ariakit",
                 "repo": "ariakit",
-                "stars": 8623,
+                "stars": 8624,
                 "topics": [
                   "a11y",
                   "accessibility",
@@ -92,7 +92,7 @@
                 "open_issues": 45,
                 "owner": "react95-io",
                 "repo": "React95",
-                "stars": 7277,
+                "stars": 7279,
                 "topics": [
                   "component-library",
                   "components",
@@ -124,7 +124,7 @@
                 "open_issues": 82,
                 "owner": "elrumordelaluz",
                 "repo": "reactour",
-                "stars": 4089,
+                "stars": 4090,
                 "topics": [
                   "getting-started",
                   "guide",
@@ -1095,7 +1095,7 @@
                 "open_issues": 11,
                 "owner": "mg901",
                 "repo": "styled-breakpoints",
-                "stars": 556,
+                "stars": 555,
                 "topics": [
                   "breakpoint",
                   "breakpoints",
@@ -1687,7 +1687,7 @@
                 "open_issues": 141,
                 "owner": "react-boilerplate",
                 "repo": "react-boilerplate",
-                "stars": 29465,
+                "stars": 29464,
                 "topics": [
                   "i18n",
                   "immer",
@@ -1856,11 +1856,11 @@
             "id": 70107786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-10T10:20:19Z",
-            "open_issues": 3613,
+            "last_commit": "2026-10-11T05:10:08Z",
+            "open_issues": 3624,
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 143101,
+            "stars": 143129,
             "topics": [
               "blog",
               "browser",
@@ -1893,7 +1893,7 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-10-09T16:39:40Z",
-            "open_issues": 613,
+            "open_issues": 614,
             "owner": "strapi",
             "repo": "strapi",
             "stars": 73293,
@@ -1937,7 +1937,7 @@
             "open_issues": 453,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55939,
+            "stars": 55937,
             "topics": [
               "blog",
               "compiler",
@@ -1966,7 +1966,7 @@
             "open_issues": 453,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55939,
+            "stars": 55937,
             "topics": [
               "blog",
               "compiler",
@@ -2033,11 +2033,11 @@
             "id": 59435364,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-10T04:16:18Z",
-            "open_issues": 78,
+            "last_commit": "2026-10-10T23:05:00Z",
+            "open_issues": 75,
             "owner": "outline",
             "repo": "outline",
-            "stars": 40858,
+            "stars": 40861,
             "topics": [
               "docker",
               "javascript",
@@ -2125,7 +2125,7 @@
             "open_issues": 4,
             "owner": "johnkorzhuk",
             "repo": "grabient",
-            "stars": 2013,
+            "stars": 2012,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
@@ -2173,7 +2173,7 @@
             "id": 226175035,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-10T10:08:53Z",
+            "last_commit": "2026-10-11T05:29:44Z",
             "open_issues": 5,
             "owner": "kachkaev",
             "repo": "njt",
@@ -2211,7 +2211,7 @@
             "open_issues": 1,
             "owner": "hackclub",
             "repo": "site",
-            "stars": 282,
+            "stars": 284,
             "topics": [
               "hackclub",
               "nextjs",
@@ -3749,7 +3749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T11:25:05.817Z",
+    "last_updated": "2026-10-11T11:38:12.277Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome styled-components resources 💅 ",
