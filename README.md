@@ -34,7 +34,7 @@
 #### General Resources
 
 * [Official Site](https://www.styled-components.com/)
-* [GitHub](https://github.com/styled-components/styled-components) ⭐ 41,057 | 🐛 29 | 🌐 TypeScript | 📅 2026-10-29
+* [GitHub](https://github.com/styled-components/styled-components) ⭐ 41,054 | 🐛 23 | 🌐 TypeScript | 📅 2026-11-03
 
 #### Community
 
@@ -47,13 +47,13 @@
 
 #### Components
 
-* [ReaKit](https://github.com/diegohaz/reakit) ⭐ 8,630 | 🐛 49 | 🌐 TypeScript | 📅 2026-11-02 - Toolkit for building interactive UIs.
+* [ReaKit](https://github.com/diegohaz/reakit) ⭐ 8,631 | 🐛 49 | 🌐 TypeScript | 📅 2026-11-03 - Toolkit for building interactive UIs.
 * [Rebass](https://github.com/jxnblk/rebass) ⭐ 7,894 | 🐛 97 | 🌐 JavaScript | 📅 2023-07-27 - Functional React UI component library.
 * [React95](https://github.com/arturbien/React95) ⭐ 7,289 | 🐛 45 | 🌐 TypeScript | 📅 2024-01-14 - Windows 95 style UI components.
 * [reactour](https://github.com/elrumordelaluz/reactour) ⭐ 4,094 | 🐛 82 | 🌐 TypeScript | 📅 2026-05-19 - Tourist Guide into your Components.
-* [react-data-table-component](https://github.com/jbetancur/react-data-table-component) ⭐ 2,235 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-11 - Data Table with built in sorting, pagination, selection, expandable rows and customizable styling.
+* [react-data-table-component](https://github.com/jbetancur/react-data-table-component) ⭐ 2,234 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-11 - Data Table with built in sorting, pagination, selection, expandable rows and customizable styling.
 * [styled-icons](https://github.com/jacobwgillespie/styled-icons) ⭐ 2,097 | 🐛 20 | 🌐 JavaScript | 📅 2026-08-24 - Icons from popular icon packs (Font Awesome, Material, Octicons, etc).
-* [react-simple-chatbot](https://github.com/LucasBassetti/react-simple-chatbot) ⭐ 1,755 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-29 - Simple chatbot / conversational-ui component.
+* [react-simple-chatbot](https://github.com/LucasBassetti/react-simple-chatbot) ⭐ 1,756 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-29 - Simple chatbot / conversational-ui component.
 * [Smooth UI](https://github.com/smooth-code/smooth-ui) ⚠️ Archived - UI Library / Design System.
 * [react-microlink](https://github.com/microlinkhq/sdk) ⚠️ Archived - Convert your links into beautiful previews.
 * [react-css-loaders](https://github.com/LucasBassetti/react-css-loaders) ⭐ 395 | 🐛 2 | 🌐 JavaScript | 📅 2020-01-21 - A collection of pure CSS loading components.
@@ -65,7 +65,7 @@
 * [react-functional-select](https://github.com/based-ghost/react-functional-select) ⭐ 195 | 🐛 14 | 🌐 TypeScript | 📅 2022-12-24 - Micro-sized & micro-optimized select component.
 * [@hackclub/design-system](https://github.com/hackclub/design-system) ⚠️ Archived - Flexible, reusable set of web UI components, built by [Hack Club](https://hackclub.com)
 * [react-styled-select](https://github.com/agutoli/react-styled-select) ⭐ 108 | 🐛 8 | 🌐 JavaScript | 📅 2021-03-25 - Lightweight Select control component.
-* [styled-off-canvas](https://github.com/marco-streng/styled-off-canvas) ⭐ 76 | 🐛 8 | 🌐 TypeScript | 📅 2026-06-21 - Simple one-off canvas menu.
+* [styled-off-canvas](https://github.com/marco-streng/styled-off-canvas) ⭐ 77 | 🐛 8 | 🌐 TypeScript | 📅 2026-06-21 - Simple one-off canvas menu.
 * [react-aria-tooltip](https://github.com/egoens/react-aria-tooltip) ⭐ 57 | 🐛 22 | 🌐 JavaScript | 📅 2022-12-10 - Accessible ReactJS tooltip component.
 * [grape-ui](https://github.com/napagroup/grape-ui-react) ⭐ 43 | 🐛 16 | 🌐 JavaScript | 📅 2023-07-10 - Component library using styled-system and other open source components.
 * [react-styled-floating-label](https://github.com/ihor/react-styled-floating-label) ⭐ 38 | 🐛 23 | 🌐 TypeScript | 📅 2023-01-03 - Floating label component which works with any HTML input.
@@ -119,11 +119,11 @@
 
 #### Testing
 
-* [jest-styled-components](https://github.com/styled-components/jest-styled-components) ⭐ 1,580 | 🐛 8 | 🌐 JavaScript | 📅 2026-10-29 - Jest utilities.
+* [jest-styled-components](https://github.com/styled-components/jest-styled-components) ⭐ 1,580 | 🐛 8 | 🌐 JavaScript | 📅 2026-11-03 - Jest utilities.
 
 #### Boilerplates
 
-* [react-boilerplate](https://github.com/mxstbr/react-boilerplate) ⭐ 29,449 | 🐛 141 | 🌐 JavaScript | 📅 2023-03-23 - Highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
+* [react-boilerplate](https://github.com/mxstbr/react-boilerplate) ⭐ 29,447 | 🐛 141 | 🌐 JavaScript | 📅 2023-03-23 - Highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
 * [ARc](https://github.com/diegohaz/arc) ⭐ 2,918 | 🐛 64 | 🌐 JavaScript | 📅 2022-02-12 - Atomic React App boilerplate.
 * [styled-react-boilerplate](https://github.com/xxczaki/styled-react-boilerplate) ⭐ 210 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-30 - Modern & minimal boilerplate.
 * [Superstylin'](https://github.com/bntzio/gatsby-starter-superstylin) ⭐ 170 | 🐛 52 | 🌐 JavaScript | 📅 2023-01-11 - A Gatsby starter.
@@ -133,18 +133,18 @@
 
 ### Real Apps
 
-* [en.kachkaev.ru](https://en.kachkaev.ru) - Personal homepage built with [next.js](https://github.com/zeit/next.js) ⭐ 143,467 | 🐛 3,784 | 🌐 JavaScript | 📅 2026-11-02; also uses GraphQL, Docker, CI and microservice architecture ([source on GitLab](https://gitlab.com/kachkaev/website)).
-* [Strapi Admin Panel](https://github.com/strapi/strapi/tree/master/packages/strapi-admin) ⭐ 73,424 | 🐛 665 | 🌐 TypeScript | 📅 2026-11-02 - Strapi built-in admin panel to build content APIs.
+* [en.kachkaev.ru](https://en.kachkaev.ru) - Personal homepage built with [next.js](https://github.com/zeit/next.js) ⭐ 143,244 | 🐛 3,786 | 🌐 JavaScript | 📅 2026-11-03; also uses GraphQL, Docker, CI and microservice architecture ([source on GitLab](https://gitlab.com/kachkaev/website)).
+* [Strapi Admin Panel](https://github.com/strapi/strapi/tree/master/packages/strapi-admin) ⭐ 73,427 | 🐛 642 | 🌐 TypeScript | 📅 2026-11-03 - Strapi built-in admin panel to build content APIs.
 * [Reactiflux](https://www.reactiflux.com) - Reactiflux community home build with [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,919 | 🐛 460 | 🌐 JavaScript | 📅 2026-10-20 ([source](https://github.com/reactiflux/reactiflux.com) ⭐ 276 | 🐛 24 | 🌐 TypeScript | 📅 2026-10-26).
 * [sachagreif.com](http://sachagreif.com) - Personal homepage built with [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,919 | 🐛 460 | 🌐 JavaScript | 📅 2026-10-20 ([source](https://github.com/SachaG/sg2017) ⭐ 24 | 🐛 28 | 🌐 JavaScript | 📅 2023-01-04).
-* [Prisma](https://www.prisma.io/) - Open-Source GraphQL ORM for GraphQL Servers ([source](https://github.com/prisma/prisma) ⭐ 47,664 | 🐛 2,829 | 🌐 TypeScript | 📅 2026-11-02).
-* [Outline](https://www.getoutline.com) - Wiki for your team ([source](https://github.com/outline/outline) ⭐ 41,140 | 🐛 73 | 🌐 TypeScript | 📅 2026-11-02)
+* [Prisma](https://www.prisma.io/) - Open-Source GraphQL ORM for GraphQL Servers ([source](https://github.com/prisma/prisma) ⭐ 47,660 | 🐛 2,830 | 🌐 TypeScript | 📅 2026-11-03).
+* [Outline](https://www.getoutline.com) - Wiki for your team ([source](https://github.com/outline/outline) ⭐ 41,152 | 🐛 71 | 🌐 TypeScript | 📅 2026-11-03)
 * [CodeSandbox](https://codesandbox.io/s/new) - An online editor tailored for React development ([source](https://github.com/CompuIves/codesandbox-client) ⭐ 13,658 | 🐛 614 | 🌐 JavaScript | 📅 2026-10-22).
 * [Spectrum](https://spectrum.chat/) - The community platform for the future ([source](https://github.com/withspectrum/spectrum) ⚠️ Archived).
-* [Grabient.com](https://www.grabient.com) - A beautiful and simple UI for generating web gradients. ([source](https://github.com/johnkorzhuk/grabient/) ⭐ 2,013 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-02).
+* [Grabient.com](https://www.grabient.com) - A beautiful and simple UI for generating web gradients. ([source](https://github.com/johnkorzhuk/grabient/) ⭐ 2,013 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-03).
 * [Orbit Components](https://github.com/kiwicom/orbit-components) ⭐ 1,438 | 🐛 49 | 🌐 TypeScript | 📅 2026-07-06 - Component library of Orbit Design System, built by and for [Kiwi.com](https://www.kiwi.com)
 * [njt.now.sh](https://njt.now.sh) - `njt` (npm jump to) is a tool and a service that provides package navigation shortcuts. It uses Next.js and involves server-side-rendering ([source](https://github.com/kachkaev/njt) ⭐ 318 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-02).
-* [Hack Club](https://hackclub.com) - Website for a global, non-profit community of high school coding clubs ([source](https://github.com/hackclub/site) ⭐ 283 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-02)
+* [Hack Club](https://hackclub.com) - Website for a global, non-profit community of high school coding clubs ([source](https://github.com/hackclub/site) ⭐ 283 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-02)
 * [Booben](https://github.com/bcrumbs/booben) ⭐ 106 | 🐛 89 | 🌐 JavaScript | 📅 2019-01-09 - Design, develop, connect data, get source code - all in one place.
 * [Nulogy](https://nulogy.com) - Supply chain management software built with open-source [Nulogy Components](https://github.com/nulogy/design-system/tree/master/packages/components) ⭐ 65 | 🐛 21 | 🌐 TypeScript | 📅 2026-10-30.
 * [Tab Ipsum](https://tabipsum.com/) - Generate fake content easily ([source](https://github.com/edkf/tabipsum) ⭐ 31 | 🐛 0 | 🌐 JavaScript | 📅 2018-11-21).
@@ -268,7 +268,7 @@ without actually upgrading peer dependencies, or other changes.
 * [react-rasta](https://github.com/chillicream/react-rasta) ⭐ 90 | 🐛 24 | 🌐 TypeScript | 📅 2022-12-08 - Responsive 12 column grid system which comes with a clean and simple API plus tons of feature -- customizable breakpoints, full screen mode, and no gutter to name a few.
 * [styled-shortcuts](https://github.com/donavon/styled-shortcuts) ⭐ 88 | 🐛 3 | 🌐 JavaScript | 📅 2018-05-14 - Use simple string notation to access props. No functions necessary.
 * [react-super-styled](https://github.com/moarwick/react-super-styled) ⭐ 80 | 🐛 0 | 🌐 JavaScript | 📅 2018-12-02 - Build responsive, semantic layouts fast with this design-agnostic toolkit.
-* [mcs-lite-ui](https://github.com/MCS-Lite/mcs-lite) ⭐ 75 | 🐛 50 | 🌐 JavaScript | 📅 2026-10-20 - An on-premises Internet of Things cloud platform, which can be quickly built and is fast to get started with.
+* [mcs-lite-ui](https://github.com/MCS-Lite/mcs-lite) ⭐ 75 | 🐛 50 | 🌐 JavaScript | 📅 2026-11-03 - An on-premises Internet of Things cloud platform, which can be quickly built and is fast to get started with.
 * [subatomic](https://github.com/gragland/subatomic) ⚠️ Archived - Add inline style props to your styled components.
 * [styled-container-query](https://github.com/FreddyFY/styled-container-query) ⭐ 52 | 🐛 14 | 🌐 JavaScript | 📅 2026-09-03 - Use `Container Queries`/`Element Queries` with an easy syntax.
 * [normalized-styled-components](https://github.com/yldio/normalized-styled-components) ⭐ 50 | 🐛 20 | 🌐 JavaScript | 📅 2022-12-10 - normalize.css with a styled-components mindset.
@@ -298,4 +298,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
