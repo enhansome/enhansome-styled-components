@@ -17,8 +17,8 @@
                 "id": 104133653,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-11-19T14:17:04Z",
-                "open_issues": 64,
+                "last_commit": "2026-11-20T09:51:44Z",
+                "open_issues": 62,
                 "owner": "ariakit",
                 "repo": "ariakit",
                 "stars": 8641,
@@ -54,7 +54,7 @@
                 "open_issues": 97,
                 "owner": "rebassjs",
                 "repo": "rebass",
-                "stars": 7898,
+                "stars": 7897,
                 "topics": [
                   "color",
                   "components",
@@ -92,7 +92,7 @@
                 "open_issues": 45,
                 "owner": "react95-io",
                 "repo": "React95",
-                "stars": 7296,
+                "stars": 7297,
                 "topics": [
                   "component-library",
                   "components",
@@ -124,7 +124,7 @@
                 "open_issues": 82,
                 "owner": "elrumordelaluz",
                 "repo": "reactour",
-                "stars": 4099,
+                "stars": 4097,
                 "topics": [
                   "getting-started",
                   "guide",
@@ -190,7 +190,7 @@
                 "open_issues": 20,
                 "owner": "styled-icons",
                 "repo": "styled-icons",
-                "stars": 2096,
+                "stars": 2095,
                 "topics": [
                   "boxicons",
                   "cryptoicons",
@@ -361,7 +361,7 @@
                 "open_issues": 6,
                 "owner": "bondz",
                 "repo": "react-epic-spinners",
-                "stars": 340,
+                "stars": 339,
                 "topics": [
                   "animations",
                   "css-spinners",
@@ -492,7 +492,7 @@
                 "open_issues": 9,
                 "owner": "hackclub",
                 "repo": "design-system",
-                "stars": 159,
+                "stars": 158,
                 "topics": [
                   "design-system",
                   "hackclub"
@@ -986,7 +986,7 @@
                 "open_issues": 33,
                 "owner": "styled-components",
                 "repo": "polished",
-                "stars": 7664,
+                "stars": 7663,
                 "topics": [
                   "css-in-js",
                   "inline-styles",
@@ -1095,7 +1095,7 @@
                 "open_issues": 10,
                 "owner": "mg901",
                 "repo": "styled-breakpoints",
-                "stars": 555,
+                "stars": 554,
                 "topics": [
                   "breakpoint",
                   "breakpoints",
@@ -1131,7 +1131,7 @@
                 "open_issues": 12,
                 "owner": "mrmartineau",
                 "repo": "design-system-utils",
-                "stars": 543,
+                "stars": 542,
                 "topics": [
                   "css-in-js",
                   "design-tokens",
@@ -1212,7 +1212,7 @@
                 "id": 101891547,
                 "language": "Kotlin",
                 "license": "MIT",
-                "last_commit": "2026-11-19T08:35:03Z",
+                "last_commit": "2026-11-20T13:21:02Z",
                 "open_issues": 25,
                 "owner": "styled-components",
                 "repo": "webstorm-styled-components",
@@ -1242,7 +1242,7 @@
                 "open_issues": 11,
                 "owner": "kyleshevlin",
                 "repo": "shevyjs",
-                "stars": 320,
+                "stars": 319,
                 "topics": [
                   "css-in-js",
                   "javascript",
@@ -1473,7 +1473,7 @@
                 "open_issues": 5,
                 "owner": "binjospookie",
                 "repo": "spacing-helper",
-                "stars": 48,
+                "stars": 47,
                 "topics": [
                   "cssinjs",
                   "emotion",
@@ -1687,7 +1687,7 @@
                 "open_issues": 141,
                 "owner": "react-boilerplate",
                 "repo": "react-boilerplate",
-                "stars": 29440,
+                "stars": 29439,
                 "topics": [
                   "i18n",
                   "immer",
@@ -1856,11 +1856,11 @@
             "id": 70107786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-19T14:42:03Z",
-            "open_issues": 4056,
+            "last_commit": "2026-11-20T14:11:01Z",
+            "open_issues": 4086,
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 143581,
+            "stars": 143626,
             "topics": [
               "blog",
               "browser",
@@ -1892,11 +1892,11 @@
             "id": 43441403,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-19T14:36:52Z",
-            "open_issues": 619,
+            "last_commit": "2026-11-20T14:22:26Z",
+            "open_issues": 616,
             "owner": "strapi",
             "repo": "strapi",
-            "stars": 73522,
+            "stars": 73528,
             "topics": [
               "api",
               "cms",
@@ -1934,10 +1934,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-11-17T00:03:53Z",
-            "open_issues": 463,
+            "open_issues": 462,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55914,
+            "stars": 55912,
             "topics": [
               "blog",
               "compiler",
@@ -1963,10 +1963,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-11-17T00:03:53Z",
-            "open_issues": 463,
+            "open_issues": 462,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55914,
+            "stars": 55912,
             "topics": [
               "blog",
               "compiler",
@@ -1991,11 +1991,11 @@
             "id": 192925833,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T14:39:34Z",
-            "open_issues": 2778,
+            "last_commit": "2026-11-20T14:13:05Z",
+            "open_issues": 2709,
             "owner": "prisma",
             "repo": "orm",
-            "stars": 47689,
+            "stars": 47692,
             "topics": [
               "cockroachdb",
               "database",
@@ -2033,11 +2033,11 @@
             "id": 59435364,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-19T13:56:24Z",
-            "open_issues": 66,
+            "last_commit": "2026-11-20T13:29:18Z",
+            "open_issues": 60,
             "owner": "outline",
             "repo": "outline",
-            "stars": 41315,
+            "stars": 41323,
             "topics": [
               "docker",
               "javascript",
@@ -2095,7 +2095,7 @@
             "open_issues": 288,
             "owner": "withspectrum",
             "repo": "spectrum",
-            "stars": 10813,
+            "stars": 10812,
             "topics": [
               "expo",
               "flowtype",
@@ -2146,7 +2146,7 @@
             "open_issues": 49,
             "owner": "kiwicom",
             "repo": "orbit",
-            "stars": 1438,
+            "stars": 1437,
             "topics": [
               "component",
               "component-library",
@@ -2207,8 +2207,8 @@
             "id": 258075566,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-17T17:03:30Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-20T06:43:56Z",
+            "open_issues": 2,
             "owner": "hackclub",
             "repo": "site",
             "stars": 286,
@@ -2236,7 +2236,7 @@
             "open_issues": 89,
             "owner": "bcrumbs",
             "repo": "booben",
-            "stars": 106,
+            "stars": 105,
             "topics": [
               "apollographql",
               "construction",
@@ -2264,7 +2264,7 @@
             "id": 137131881,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-16T15:10:48Z",
+            "last_commit": "2026-11-19T15:18:53Z",
             "open_issues": 19,
             "owner": "nulogy",
             "repo": "design-system",
@@ -2360,7 +2360,7 @@
             "id": 78586643,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-11-08T03:54:17Z",
+            "last_commit": "2026-11-19T18:43:22Z",
             "open_issues": 7,
             "owner": "dirtyredz",
             "repo": "dirtyredz.com",
@@ -2497,7 +2497,7 @@
             "open_issues": 89,
             "owner": "Sly777",
             "repo": "ran",
-            "stars": 2205,
+            "stars": 2204,
             "topics": [
               "apollo",
               "boilerplate",
@@ -2565,7 +2565,7 @@
             "open_issues": 41,
             "owner": "leebenson",
             "repo": "reactql",
-            "stars": 1810,
+            "stars": 1808,
             "topics": [
               "apollo",
               "apollo-client",
@@ -2628,7 +2628,7 @@
             "open_issues": 7,
             "owner": "erikras",
             "repo": "styled-components-theme",
-            "stars": 307,
+            "stars": 305,
             "topics": [
               "color-manipulation",
               "css",
@@ -3272,7 +3272,7 @@
             "open_issues": 3,
             "owner": "donavon",
             "repo": "styled-shortcuts",
-            "stars": 88,
+            "stars": 87,
             "topics": [
               "styled-components"
             ]
@@ -3325,7 +3325,7 @@
             "open_issues": 50,
             "owner": "MCS-Lite",
             "repo": "mcs-lite",
-            "stars": 75,
+            "stars": 74,
             "topics": [
               "create-react-app",
               "mcs",
@@ -3408,7 +3408,7 @@
             "open_issues": 20,
             "owner": "yldio",
             "repo": "normalized-styled-components",
-            "stars": 50,
+            "stars": 49,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:45.833Z"
@@ -3749,7 +3749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T14:43:17.910Z",
+    "last_updated": "2026-11-20T14:24:43.102Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome styled-components resources 💅 ",
