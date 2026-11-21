@@ -34,7 +34,7 @@
 #### General Resources
 
 * [Official Site](https://www.styled-components.com/)
-* [GitHub](https://github.com/styled-components/styled-components) ⭐ 41,067 | 🐛 30 | 🌐 TypeScript | 📅 2026-11-17
+* [GitHub](https://github.com/styled-components/styled-components) ⭐ 41,065 | 🐛 30 | 🌐 TypeScript | 📅 2026-11-17
 
 #### Community
 
@@ -47,7 +47,7 @@
 
 #### Components
 
-* [ReaKit](https://github.com/diegohaz/reakit) ⭐ 8,641 | 🐛 62 | 🌐 TypeScript | 📅 2026-11-20 - Toolkit for building interactive UIs.
+* [ReaKit](https://github.com/diegohaz/reakit) ⭐ 8,642 | 🐛 64 | 🌐 TypeScript | 📅 2026-11-21 - Toolkit for building interactive UIs.
 * [Rebass](https://github.com/jxnblk/rebass) ⭐ 7,897 | 🐛 97 | 🌐 JavaScript | 📅 2023-07-27 - Functional React UI component library.
 * [React95](https://github.com/arturbien/React95) ⭐ 7,297 | 🐛 45 | 🌐 TypeScript | 📅 2024-01-14 - Windows 95 style UI components.
 * [reactour](https://github.com/elrumordelaluz/reactour) ⭐ 4,097 | 🐛 82 | 🌐 TypeScript | 📅 2026-05-19 - Tourist Guide into your Components.
@@ -91,7 +91,7 @@
 #### Helpers
 
 * [styled-system](https://github.com/jxnblk/styled-system) ⭐ 7,855 | 🐛 236 | 🌐 JavaScript | 📅 2024-01-12 - Design system utilities.
-* [polished](https://github.com/styled-components/polished) ⭐ 7,663 | 🐛 33 | 🌐 JavaScript | 📅 2026-03-26 - Lightweight set of Sass/Compass-style mixins/helpers.
+* [polished](https://github.com/styled-components/polished) ⭐ 7,664 | 🐛 33 | 🌐 JavaScript | 📅 2026-03-26 - Lightweight set of Sass/Compass-style mixins/helpers.
 * [styled-theming](https://github.com/styled-components/styled-theming) ⭐ 1,167 | 🐛 9 | 🌐 JavaScript | 📅 2026-06-10 - Create themes for your app.
 * [styled-tools](https://github.com/diegohaz/styled-tools) ⭐ 799 | 🐛 16 | 🌐 JavaScript | 📅 2022-12-06 - Useful interpolated functions.
 * [styled-map](https://github.com/scf4/styled-map) ⚠️ Archived - Super simple lib to map props to styles.
@@ -112,7 +112,7 @@
 * [spacing-helper](https://github.com/binjospookie/spacing-helper) ⭐ 47 | 🐛 5 | 🌐 JavaScript | 📅 2026-09-07 - Standalone helper for creating consistent spacing between the elements.
 * [MetaComponent](https://github.com/springload/metacomponent) ⭐ 39 | 🐛 0 | 🌐 TypeScript | 📅 2020-08-25 - Migrate legacy HTML and CSS to styled components.
 * [styled-components-extractor](https://github.com/FallenMax/styled-components-extractor) ⭐ 28 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-24 - Extracts unbound tags in VS Code.
-* [styled-reboot](https://github.com/alexruzzarin/styled-reboot) ⭐ 27 | 🐛 17 | 🌐 TypeScript | 📅 2026-11-16 - Bootstrap v4 reboot.css
+* [styled-reboot](https://github.com/alexruzzarin/styled-reboot) ⭐ 27 | 🐛 17 | 🌐 TypeScript | 📅 2026-11-20 - Bootstrap v4 reboot.css
 * [theme-miner](http://github.com/doubco/theme-miner) ⭐ 21 | 🐛 7 | 🌐 JavaScript | 📅 2023-01-06 - Makes it very easy and readable to create complex design systems in React with styled-components.
 * [styled-tachyons](https://github.com/linonetwo/styled-tachyons) ⭐ 16 | 🐛 16 | 🌐 JavaScript | 📅 2023-03-04 - Mix tachyons style shorthands with normal css.
 * [react-components-cli](https://github.com/yannvr/react-components-cli) ⚠️ Archived - Client to generate styled components.
@@ -133,18 +133,18 @@
 
 ### Real Apps
 
-* [en.kachkaev.ru](https://en.kachkaev.ru) - Personal homepage built with [next.js](https://github.com/zeit/next.js) ⭐ 143,626 | 🐛 4,086 | 🌐 JavaScript | 📅 2026-11-20; also uses GraphQL, Docker, CI and microservice architecture ([source on GitLab](https://gitlab.com/kachkaev/website)).
-* [Strapi Admin Panel](https://github.com/strapi/strapi/tree/master/packages/strapi-admin) ⭐ 73,528 | 🐛 616 | 🌐 TypeScript | 📅 2026-11-20 - Strapi built-in admin panel to build content APIs.
-* [Reactiflux](https://www.reactiflux.com) - Reactiflux community home build with [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,912 | 🐛 462 | 🌐 JavaScript | 📅 2026-11-17 ([source](https://github.com/reactiflux/reactiflux.com) ⭐ 276 | 🐛 24 | 🌐 TypeScript | 📅 2026-10-26).
-* [sachagreif.com](http://sachagreif.com) - Personal homepage built with [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,912 | 🐛 462 | 🌐 JavaScript | 📅 2026-11-17 ([source](https://github.com/SachaG/sg2017) ⭐ 24 | 🐛 28 | 🌐 JavaScript | 📅 2023-01-04).
-* [Prisma](https://www.prisma.io/) - Open-Source GraphQL ORM for GraphQL Servers ([source](https://github.com/prisma/prisma) ⭐ 47,692 | 🐛 2,709 | 🌐 TypeScript | 📅 2026-11-20).
-* [Outline](https://www.getoutline.com) - Wiki for your team ([source](https://github.com/outline/outline) ⭐ 41,323 | 🐛 60 | 🌐 TypeScript | 📅 2026-11-20)
+* [en.kachkaev.ru](https://en.kachkaev.ru) - Personal homepage built with [next.js](https://github.com/zeit/next.js) ⭐ 143,629 | 🐛 4,113 | 🌐 JavaScript | 📅 2026-11-21; also uses GraphQL, Docker, CI and microservice architecture ([source on GitLab](https://gitlab.com/kachkaev/website)).
+* [Strapi Admin Panel](https://github.com/strapi/strapi/tree/master/packages/strapi-admin) ⭐ 73,531 | 🐛 618 | 🌐 TypeScript | 📅 2026-11-21 - Strapi built-in admin panel to build content APIs.
+* [Reactiflux](https://www.reactiflux.com) - Reactiflux community home build with [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,914 | 🐛 462 | 🌐 JavaScript | 📅 2026-11-20 ([source](https://github.com/reactiflux/reactiflux.com) ⭐ 276 | 🐛 24 | 🌐 TypeScript | 📅 2026-10-26).
+* [sachagreif.com](http://sachagreif.com) - Personal homepage built with [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,914 | 🐛 462 | 🌐 JavaScript | 📅 2026-11-20 ([source](https://github.com/SachaG/sg2017) ⭐ 24 | 🐛 28 | 🌐 JavaScript | 📅 2023-01-04).
+* [Prisma](https://www.prisma.io/) - Open-Source GraphQL ORM for GraphQL Servers ([source](https://github.com/prisma/prisma) ⭐ 47,691 | 🐛 2,714 | 🌐 TypeScript | 📅 2026-11-21).
+* [Outline](https://www.getoutline.com) - Wiki for your team ([source](https://github.com/outline/outline) ⭐ 41,332 | 🐛 60 | 🌐 TypeScript | 📅 2026-11-21)
 * [CodeSandbox](https://codesandbox.io/s/new) - An online editor tailored for React development ([source](https://github.com/CompuIves/codesandbox-client) ⭐ 13,662 | 🐛 616 | 🌐 JavaScript | 📅 2026-10-22).
 * [Spectrum](https://spectrum.chat/) - The community platform for the future ([source](https://github.com/withspectrum/spectrum) ⚠️ Archived).
 * [Grabient.com](https://www.grabient.com) - A beautiful and simple UI for generating web gradients. ([source](https://github.com/johnkorzhuk/grabient/) ⭐ 2,012 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-18).
 * [Orbit Components](https://github.com/kiwicom/orbit-components) ⭐ 1,437 | 🐛 49 | 🌐 TypeScript | 📅 2026-07-06 - Component library of Orbit Design System, built by and for [Kiwi.com](https://www.kiwi.com)
-* [njt.now.sh](https://njt.now.sh) - `njt` (npm jump to) is a tool and a service that provides package navigation shortcuts. It uses Next.js and involves server-side-rendering ([source](https://github.com/kachkaev/njt) ⭐ 318 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-16).
-* [Hack Club](https://hackclub.com) - Website for a global, non-profit community of high school coding clubs ([source](https://github.com/hackclub/site) ⭐ 286 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-20)
+* [njt.now.sh](https://njt.now.sh) - `njt` (npm jump to) is a tool and a service that provides package navigation shortcuts. It uses Next.js and involves server-side-rendering ([source](https://github.com/kachkaev/njt) ⭐ 318 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-21).
+* [Hack Club](https://hackclub.com) - Website for a global, non-profit community of high school coding clubs ([source](https://github.com/hackclub/site) ⭐ 287 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-20)
 * [Booben](https://github.com/bcrumbs/booben) ⭐ 105 | 🐛 89 | 🌐 JavaScript | 📅 2019-01-09 - Design, develop, connect data, get source code - all in one place.
 * [Nulogy](https://nulogy.com) - Supply chain management software built with open-source [Nulogy Components](https://github.com/nulogy/design-system/tree/master/packages/components) ⭐ 65 | 🐛 19 | 🌐 TypeScript | 📅 2026-11-19.
 * [Tab Ipsum](https://tabipsum.com/) - Generate fake content easily ([source](https://github.com/edkf/tabipsum) ⭐ 31 | 🐛 0 | 🌐 JavaScript | 📅 2018-11-21).
@@ -152,7 +152,7 @@
 * [rick-morty-app](https://github.com/bamii/rick-morty-app) ⭐ 13 | 🐛 1 | 🌐 JavaScript | 📅 2019-01-15 - Rick and Morty Information Portal.
 * [Dirtyredz.com](http://dirtyredz.com) - David McClain | Dirtyredz \* About me, Latest projects and Contact ([source](https://github.com/dirtyredz/dirtyredz.com) ⭐ 11 | 🐛 7 | 🌐 JavaScript | 📅 2026-11-19).
 * [joeireland.com](https://joeireland.com) - Portfolio of Joseph Ireland ([source](https://github.com/IamJoseph/JoesReactWebsite) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2018-09-11).
-* [michaelhsu.tw](http://michaelhsu.tw) - A simple static homepage built with CRA pre-renderer ([source](https://github.com/evenchange4/michaelhsu.tw) ⭐ 8 | 🐛 18 | 🌐 JavaScript | 📅 2026-11-05).
+* [michaelhsu.tw](http://michaelhsu.tw) - A simple static homepage built with CRA pre-renderer ([source](https://github.com/evenchange4/michaelhsu.tw) ⭐ 8 | 🐛 18 | 🌐 JavaScript | 📅 2026-11-20).
 * [spaceexperience.club](https://spaceexperience.club/) - Brings you each day a stunning picture of our universe, Astronomy Picture of the Day. ([source](https://github.com/caspg/space-exp) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2017-04-09).
 * [rosesdaycare.center](https://rosesdaycare.center) - Marketing website with theme colors that change on refresh ([source](https://github.com/anthony2025/roses-daycare) ⭐ 2 | 🐛 41 | 🌐 JavaScript | 📅 2022-12-09).
 * [Earner](https://www.earner.ai) - Your number one resource to the Finnish employment community.
@@ -247,7 +247,7 @@ without actually upgrading peer dependencies, or other changes.
 * [Reactackle](https://github.com/bcrumbs/reactackle) ⭐ 276 | 🐛 77 | 🌐 JavaScript | 📅 2022-12-10 - Open-source component library built with React and Styled Components.
 * [styled-props](https://github.com/RafalFilipek/styled-props) ⚠️ Archived - Allows you to set styled props in your styled-components without stress.
 * [styled-components-breakpoint](https://github.com/jameslnewell/styled-components-breakpoint) ⭐ 238 | 🐛 14 | 🌐 JavaScript | 📅 2021-10-12 - Utility function for using breakpoints.
-* [react-progressive-bg-image](https://github.com/evenchange4/react-progressive-bg-image) ⭐ 228 | 🐛 25 | 🌐 JavaScript | 📅 2026-11-06 - Medium style progressive background image.
+* [react-progressive-bg-image](https://github.com/evenchange4/react-progressive-bg-image) ⭐ 228 | 🐛 25 | 🌐 JavaScript | 📅 2026-11-21 - Medium style progressive background image.
 * [styled-components-grid](https://github.com/jameslnewell/styled-components-grid) ⭐ 220 | 🐛 27 | 🌐 JavaScript | 📅 2023-07-15 - Responsive grid components.
 * [last-draft](https://github.com/vacenz/last-draft) ⭐ 218 | 🐛 9 | 🌐 JavaScript | 📅 2018-03-08 - A Draft.js Editor.
 * [styled-components-spacing](https://github.com/jameslnewell/styled-components-spacing) ⭐ 210 | 🐛 22 | 🌐 JavaScript | 📅 2022-12-09 - Responsive margin and padding components.
@@ -268,7 +268,7 @@ without actually upgrading peer dependencies, or other changes.
 * [react-rasta](https://github.com/chillicream/react-rasta) ⭐ 90 | 🐛 24 | 🌐 TypeScript | 📅 2022-12-08 - Responsive 12 column grid system which comes with a clean and simple API plus tons of feature -- customizable breakpoints, full screen mode, and no gutter to name a few.
 * [styled-shortcuts](https://github.com/donavon/styled-shortcuts) ⭐ 87 | 🐛 3 | 🌐 JavaScript | 📅 2018-05-14 - Use simple string notation to access props. No functions necessary.
 * [react-super-styled](https://github.com/moarwick/react-super-styled) ⭐ 79 | 🐛 0 | 🌐 JavaScript | 📅 2018-12-02 - Build responsive, semantic layouts fast with this design-agnostic toolkit.
-* [mcs-lite-ui](https://github.com/MCS-Lite/mcs-lite) ⭐ 74 | 🐛 50 | 🌐 JavaScript | 📅 2026-11-05 - An on-premises Internet of Things cloud platform, which can be quickly built and is fast to get started with.
+* [mcs-lite-ui](https://github.com/MCS-Lite/mcs-lite) ⭐ 74 | 🐛 50 | 🌐 JavaScript | 📅 2026-11-20 - An on-premises Internet of Things cloud platform, which can be quickly built and is fast to get started with.
 * [subatomic](https://github.com/gragland/subatomic) ⚠️ Archived - Add inline style props to your styled components.
 * [styled-container-query](https://github.com/FreddyFY/styled-container-query) ⭐ 52 | 🐛 14 | 🌐 JavaScript | 📅 2026-09-03 - Use `Container Queries`/`Element Queries` with an easy syntax.
 * [normalized-styled-components](https://github.com/yldio/normalized-styled-components) ⭐ 49 | 🐛 20 | 🌐 JavaScript | 📅 2022-12-10 - normalize.css with a styled-components mindset.
@@ -298,4 +298,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
